@@ -99,6 +99,17 @@
         "WikiLink": ""
     },
     {
+        "Abreviation": "NAB",
+        "Authors": "Gregg Butler",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "The New American Bible (NAB) paraphrased Bible  translation was begun shortly after I had an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. Each verse is analyzed for what it is truly trying to say, and is rewritten in such a way that I can understand what it's saying. It's a translation for me, using modern 21st century English, grammar, and punctuation. The foundation for this translation is the King James Version (KJV), which I find very confusing and difficult to understand. There is a lot of redundancy and repetion within the verses in the old texts. I have tried to proplerly structure the sentences so that run-on sentences, sentences that say the same thing over and over again. I am also trying to restructure the sentences with the proper positioning of Nouns, Pronouns, Verbs, Adverbs, Adjecitives, Modifiers, and Descriptors.",
+        "Title": "New American Bible",
+        "VerseCount": 31102,
+        "VersionID": 10,
+        "WikiLink": ""
+    },
+    {
         "Abreviation": "NWB",
         "Authors": "Noah Webster",
         "Available": 1,
@@ -106,7 +117,7 @@
         "History": "The Noah Webster's Bible (NWB), was written by Noah Webster, was renowned for his dictionary, but he also made a significant contribution to biblical literature. In 1833, he published his own version of the Bible, which was not a new translation but a revision of the King James Version (KJV). Webster's primary goal was to modernize the language of the KJV, which had been the standard for over 200 years. He sought to clarify the text by updating archaic language, correcting grammatical inaccuracies, and removing words and phrases that were no longer in common use or could be considered offensive. Webster believed that the Bible should be accessible to the common person without the need for commentaries to understand its language. His version maintained the familiar style of the KJV but aimed to make it more comprehensible for the average reader of his time. Despite his efforts, the NWB never achieved the popularity of the KJV, largely due to the deep-seated affection and familiarity the public held for the original version. Nevertheless, Webster's edition remains a noteworthy attempt at making the Bible more approachable for everyday readers. ",
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
-        "VersionID": 10,
+        "VersionID": 11,
         "WikiLink": ""
     },
     {
@@ -116,17 +127,6 @@
         "Copyright": "Public Domain",
         "History": "The Smith's Literal Translation (SLT) of the Bible is a monumental work by Julia E. Smith, who became the first woman to translate the entire Bible into English. Her translation journey began in 1847, driven by a desire for a more literal interpretation of the scriptures. She was proficient in Latin, Greek, and Hebrew, and undertook this colossal eight-year task and completed it in 1855. Her approach was unique for its strict literalism, aiming to translate each Greek or Hebrew word consistently with the same English word. This method resulted in a translation that some found mechanical but was groundbreaking in its fidelity to the original texts. The translation was published in 1876 as \"The Holy Bible: Containing the Old and New Testaments; Translated Literally from the Original Tongues.\" Smith's work is not only a significant contribution to biblical scholarship but also a testament to her dedication and scholarly rigor.",
         "Title": "Smith's Literal Translation",
-        "VerseCount": 31102,
-        "VersionID": 11,
-        "WikiLink": ""
-    },
-    {
-        "Abreviation": "TWF",
-        "Authors": "Gregg Butler",
-        "Available": 1,
-        "Copyright": "Public Domain",
-        "History": "The Twenty-First Century Version (TWF) paraphrased Bible  translation was begun shortly after I had an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. Each verse is analyzed for what it is truly trying to say, and is rewritten in such a way that I can understand what it's saying. It's a translation for me, using modern 21st century English, grammar, and punctuation. The foundation for this translation is the King James Version (KJV), which I find very confusing and difficult to understand. There is a lot of redundancy and repetion within the verses in the old texts. I have tried to proplerly structure the sentences so that run-on sentences, sentences that say the same thing over and over again. I am also trying to restructure the sentences with the proper positioning of Nouns, Pronouns, Verbs, Adverbs, Adjecitives, Modifiers, and Descriptors.",
-        "Title": "Twenty-First Century",
         "VerseCount": 31102,
         "VersionID": 12,
         "WikiLink": ""

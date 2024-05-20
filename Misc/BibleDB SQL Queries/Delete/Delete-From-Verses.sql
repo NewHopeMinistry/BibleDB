@@ -1,1 +1,1 @@
-DELETE FROM YLTVerses.YLTVerses;
+DELETE FROM BBBVerses.BBBVerses;
