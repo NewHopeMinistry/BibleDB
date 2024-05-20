@@ -1,0 +1,1 @@
+SELECT * FROM TYNVerses WHERE VerseText IS NULL;

@@ -1,0 +1,178 @@
+var versions = [
+    {
+        "Abreviation": "ASV",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "American Standard Version",
+        "VerseCount": 31102,
+        "VersionID": 1
+    },
+    {
+        "Abreviation": "AKJ",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "The Authorized King James Version Bible is in the Public Domain in most parts of the world, except in the United Kingdom, where the British Crown holds a perpetual copyright.",
+        "History": "",
+        "Links": "",
+        "Title": "Authorized King James",
+        "VerseCount": 31102,
+        "VersionID": 2
+    },
+    {
+        "Abreviation": "BSB",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Berean Standard Bible",
+        "VerseCount": 31102,
+        "VersionID": 3
+    },
+    {
+        "Abreviation": "BBE",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Bible in Basic English",
+        "VerseCount": 31102,
+        "VersionID": 4
+    },
+    {
+        "Abreviation": "BBB",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Bishop's Bible",
+        "VerseCount": 31102,
+        "VersionID": 5
+    },
+    {
+        "Abreviation": "CBV",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Coverdale Bible",
+        "VerseCount": 31102,
+        "VersionID": 6
+    },
+    {
+        "Abreviation": "DBY",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Darby English Bible",
+        "VerseCount": 31099,
+        "VersionID": 7
+    },
+    {
+        "Abreviation": "DRB",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Douay-Rheims Bible",
+        "VerseCount": 31102,
+        "VersionID": 8
+    },
+    {
+        "Abreviation": "GNV",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Geneva Bible",
+        "VerseCount": 31102,
+        "VersionID": 9
+    },
+    {
+        "Abreviation": "KJV",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "King James Bible",
+        "VerseCount": 31102,
+        "VersionID": 10
+    },
+    {
+        "Abreviation": "NWB",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Noah Webster's Bible",
+        "VerseCount": 31106,
+        "VersionID": 11
+    },
+    {
+        "Abreviation": "SLT",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Smith's Literal Translation",
+        "VerseCount": 31102,
+        "VersionID": 12
+    },
+    {
+        "Abreviation": "TWF",
+        "Authors": "Gregg Butler",
+        "Available": 1,
+        "Copyright": "Copyright ©2024 ● Gregg Butler ● Public Domain",
+        "History": "The Twenty-First Century Version (TWF) paraphrased Bible  translation was begun shortly after I had an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. Each verse is analyzed for what it is truly trying to say, and is rewritten in such a way that I can understand what it's saying. It's a translation for me, using modern 21st century English, grammar, and punctuation. The foundation for this translation is the King James Version (KJV), which I find very confusing and difficult to understand. There is a lot of redundancy and repetion within the verses in the old texts. I have tried to proplerly structure the sentences so that run-on sentences, sentences that say the same thing over and over again. I am also trying to restructure the sentences with the proper positioning of Nouns, Pronouns, Verbs, Adverbs, Adjecitives, Modifiers, and Descriptors.",
+        "Links": "",
+        "Title": "Twenty-First Century",
+        "VerseCount": 31102,
+        "VersionID": 13
+    },
+    {
+        "Abreviation": "TYN",
+        "Authors": "William Tyndale",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Tyndale's Bible",
+        "VerseCount": 13928,
+        "VersionID": 14
+    },
+    {
+        "Abreviation": "WEB",
+        "Authors": "",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "World English Bible",
+        "VerseCount": 31102,
+        "VersionID": 15
+    },
+    {
+        "Abreviation": "YLT",
+        "Authors": "Robert Young",
+        "Available": 1,
+        "Copyright": "Public Domain",
+        "History": "",
+        "Links": "",
+        "Title": "Young's Literal Translation",
+        "VerseCount": 31103,
+        "VersionID": 16
+    }
+]
