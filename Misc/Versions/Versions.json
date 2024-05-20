@@ -1,178 +1,167 @@
 [
     {
         "Abreviation": "ASV",
-        "Authors": "",
+        "Authors": "Phillip Schaff and others.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The American Standard Version (ASV) of the Bible, began in 1872 as a project to revise the 1611 King James Version. Phillip Schaff, assembled a team of 30 American and British scholars representing various Protestant denominations, and their efforts culminated in the publication of the revised New Testament in 1881 and the Old Testament in 1885, which was published in Great Britain as the Revised Version. However, the American scholars had suggested changes that were not included in the final British version. Consequently, they released their own version, the ASV, the New Testament was published in 1900 and the complete Bible in 1901. The ASV made use of the Westcott and Hort Greek New Testament and the Masoretic Text for the Old Testament, and it was the first major English translation to use \"Jehovah\" instead of God or Lord, as the Hebrew translation of YHWH. The ASV was popular at first, but it's archaic language limited its widespread adoption. It later served as the foundation for several 20th-century Bible translations, including the Revised Standard Version, the Amplified Bible, and the New American Standard Bible. Its commitment to a word-for-word translation philosophy has shaped modern Bible translations, balancing the need for literal accuracy with readability. Today, the ASV is in the public domain and it's freely available, and it continues to influence religious study and translation efforts.",
         "Title": "American Standard Version",
         "VerseCount": 31102,
-        "VersionID": 1
-    },
-    {
-        "Abreviation": "AKJ",
-        "Authors": "",
-        "Available": 1,
-        "Copyright": "The Authorized King James Version Bible is in the Public Domain in most parts of the world, except in the United Kingdom, where the British Crown holds a perpetual copyright.",
-        "History": "",
-        "Links": "",
-        "Title": "Authorized King James",
-        "VerseCount": 31102,
-        "VersionID": 2
+        "VersionID": 1,
+        "WikiLink": ""
     },
     {
         "Abreviation": "BSB",
-        "Authors": "",
+        "Authors": "Dr. Gary Hill, Dr. Maury Robertson, Dr. Eugene H. Merrill, Dr. Ulrik Sandborg-Petersen, Dr. Baruch Korman, and Dr. Grant Osborne. T, and others.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Berean Standard Bible (BSB) is a modern translation of the Holy Scriptures that emerged from a commitment to clarity and fidelity to the original Hebrew and Greek texts. Published in 2016, the BSB was developed by a team of scholars associated with Bible Hub and the Discover Bible. This translation is unique in its approach, merging the Berean Literal Bible and the Berean Interlinear Bible to create a version that is both accurate to the original languages and accessible to the modern reader. The BSB's name is inspired by the noble-minded Bereans of Acts 17:11, who diligently examined the Scriptures. Emphasizing this spirit of inquiry, the BSB offers a transparent text that encourages study of the root meanings of words. It is available for free online, reflecting the publishers' belief that the Scriptures should be freely studied and shared. The BSB stands out for its balance between \"word for word\" and \"thought for thought\" translation philosophies, maintaining original gender designations and consistency with the core meanings of the source texts. As language evolves, so does the BSB, with its translation process remaining open to refinement to ensure continued relevance and accuracy.",
         "Title": "Berean Standard Bible",
         "VerseCount": 31102,
-        "VersionID": 3
+        "VersionID": 2,
+        "WikiLink": ""
     },
     {
         "Abreviation": "BBE",
-        "Authors": "",
+        "Authors": "S. H. Hooke and others.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Bible in Basic English (BBE), first published in 1941, is a translation of the Bible into Basic English. It utilizes a 1,000-word vocabulary to help non-native English speakers and those with limited education. The New Testament was released in 1941, followed by the Old Testament in 1949. This translation was the work of S. H. Hooke and a team who sought to simplify the text while maintaining the original meanings. In 1965, the BBE was printed by Cambridge University Press and, due to the absence of a copyright notice, fell into the public domain in the United States. The BBE is noted for its clarity and simplicity, making the profound stories and teachings of the Bible accessible to a broader audience. It remains a valuable resource for introducing new readers to biblical narratives and concepts.",
         "Title": "Bible in Basic English",
         "VerseCount": 31102,
-        "VersionID": 4
+        "VersionID": 3,
+        "WikiLink": ""
     },
     {
         "Abreviation": "BBB",
-        "Authors": "",
+        "Authors": "Archbishop Matthew Parker and others.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Bishop's Bible (BBB), first published in 1568, was an English translation mandated by the Church of England to supplant the Geneva Bible, whose Calvinist-influenced annotations were deemed unsuitable by the Anglican clergy. Archbishop Matthew Parker spearheaded the project, which involved various bishops and scholars who each translated a section, identifiable by their initials in early editions. This translation was notably more formal and less accessible than its predecessor. Despite revisions in 1572, the BBB never achieved the popularity of the Geneva Bible. However, it significantly influenced the King James Version (KJV), with the 1602 edition of the Bishop's Bible serving as its base text. The KJV, completed in 1611, went on to become one of the most enduring and revered translations in the English-speaking world.",
         "Title": "Bishop's Bible",
         "VerseCount": 31102,
-        "VersionID": 5
+        "VersionID": 4,
+        "WikiLink": ""
     },
     {
         "Abreviation": "CBV",
-        "Authors": "",
+        "Authors": "Myles Coverdale.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Coverdale Bible (CBV), completed by Myles Coverdale and published in 1535, holds the distinction of being the first complete Bible in Modern English and the first printed edition in the language. Coverdale's translation was groundbreaking, as it included both the Old and New Testaments. The work was not entirely original; it was heavily based on William Tyndale's earlier translations of the New Testament and parts of the Old Testament. For the remaining sections, Coverdale utilized a variety of sources, including Latin Vulgate, Martin Luther's German Bible, and the Swiss-German Zürich Bible. The 1535 edition's place of publication was initially disputed, but it is now attributed to Antwerp by Merten de Keyser. The CBV was later incorporated into the Great Bible of 1540 and remained influential in various religious texts, including several editions of the Book of Common Prayer. Over 20 editions of the CBV or its New Testament were published, with the last appearing in 1553.",
         "Title": "Coverdale Bible",
         "VerseCount": 31102,
-        "VersionID": 6
+        "VersionID": 5,
+        "WikiLink": ""
     },
     {
         "Abreviation": "DBY",
-        "Authors": "",
+        "Authors": "John Nelson Darby.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Darby Bible (DBY), an English translation by John Nelson Darby, was first published in 1890. Darby, an Anglo-Irish Bible teacher associated with the Plymouth Brethren, aimed to produce a modern translation for those without access to the original languages of Scripture. His translation began with the New Testament, published in 1867, followed by revisions in 1872 and 1884. Darby's work was not intended for public reading but for private study, and he typically used the King James Version in his oral ministry. The complete DBY, including the Old Testament translated by his students from his French and German versions, was published posthumously. Darby's translation is noted for its literal approach and for using \"Jehovah\" for the name of God, diverging from the common practice of using \"LORD\" or \"GOD\" in capital letters. This translation has influenced several other versions and remains a significant work for biblical scholars and students.",
         "Title": "Darby English Bible",
         "VerseCount": 31099,
-        "VersionID": 7
+        "VersionID": 6,
+        "WikiLink": ""
     },
     {
         "Abreviation": "DRB",
-        "Authors": "",
+        "Authors": "William Allen, Richard Bristow, Thomas Worthington, William Reynolds, and others. Later Bishop Richard Challoner revised it.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Douay-Rheims Bible (DRB), a translation from the Latin Vulgate into English, was a monumental work undertaken by English Catholic scholars in exile. The New Testament was first published in Reims, France, in 1582, followed by the Old Testament in two volumes, released in 1609 and 1610 by the University of Douai. This translation was not only a religious text but also a political statement, supporting the Counter-Reformation during a time when Protestantism was gaining ground in England. The translation included extensive commentary and notes, aiming to uphold Catholic tradition. The Douay-Rheims Bible underwent a significant revision by Bishop Richard Challoner between 1749 and 1752, which improved its readability and accuracy by comparing it with Hebrew and Greek texts. This revised version, known as the Douay-Rheims-Challoner Bible, became the standard for English-speaking Catholics well into the 20th century. It holds the distinction of predating the King James Version and influencing it, despite the latter's attempt to distance itself from Catholic translations.",
         "Title": "Douay-Rheims Bible",
         "VerseCount": 31102,
-        "VersionID": 8
+        "VersionID": 7,
+        "WikiLink": ""
     },
     {
         "Abreviation": "GNV",
-        "Authors": "",
+        "Authors": "William Whittingham, Myles Coverdale, and others.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Geneva Bible (GNV), a pivotal English translation, was first published in 1560 by Protestant exiles in Geneva. Fleeing the Catholic Mary I's reign, these scholars, under the spiritual guidance of John Calvin and later Theodore Beza, sought to continue the reformation of church and scripture. William Whittingham, along with Myles Coverdale and others, meticulously translated the Bible, which became known for its comprehensive annotations and vigorous language. This version, preceding the King James Bible (KJV) by 51 years, was the primary Bible for 16th-century English Protestantism and influenced figures like Shakespeare and Cromwell. It was notably brought to America on the Mayflower and even inspired the design for the Great Seal of the United States. Despite its popularity, it was not printed in England until 1576, due to the political-religious climate. The GNV's legacy persisted, impacting the translation of the KJV and remaining a beloved text for its clarity, that made it easily understood by non-scholars or clergy.",
         "Title": "Geneva Bible",
         "VerseCount": 31102,
-        "VersionID": 9
+        "VersionID": 8,
+        "WikiLink": ""
     },
     {
         "Abreviation": "KJV",
-        "Authors": "",
+        "Authors": "Richard Bancroft, the archbishop of Canterbury, and 47 other scholars and clergy.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
-        "Title": "King James Bible",
+        "History": "The King James Version (KJV) Bible, is a significant English Bible translation commissioned by King James I of England in 1604 and published in 1611. It was conceived during a time when the Church of England sought uniformity in religious texts following the reign of Queen Elizabeth I. The translation project was undertaken by a group of 47 scholars organized into six companies, working in Westminster, Oxford, and Cambridge. They sought to create a version that was both true to the original texts and accessible to the public, while also serving the ecclesiastical and political agenda of the time. The KJV was notable for its majestic literary style, which has had a profound influence on English literature and language. It became the standard Bible for English-speaking Protestants and was widely accepted until the early 20th century. Despite the emergence of numerous subsequent translations, the King James Version remains an enduring symbol of the English Reformation and a cornerstone of English-speaking Christian cultures.",
+        "Title": "King James Version",
         "VerseCount": 31102,
-        "VersionID": 10
+        "VersionID": 9,
+        "WikiLink": ""
     },
     {
         "Abreviation": "NWB",
-        "Authors": "",
+        "Authors": "Noah Webster",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Noah Webster's Bible (NWB), was written by Noah Webster, was renowned for his dictionary, but he also made a significant contribution to biblical literature. In 1833, he published his own version of the Bible, which was not a new translation but a revision of the King James Version (KJV). Webster's primary goal was to modernize the language of the KJV, which had been the standard for over 200 years. He sought to clarify the text by updating archaic language, correcting grammatical inaccuracies, and removing words and phrases that were no longer in common use or could be considered offensive. Webster believed that the Bible should be accessible to the common person without the need for commentaries to understand its language. His version maintained the familiar style of the KJV but aimed to make it more comprehensible for the average reader of his time. Despite his efforts, the NWB never achieved the popularity of the KJV, largely due to the deep-seated affection and familiarity the public held for the original version. Nevertheless, Webster's edition remains a noteworthy attempt at making the Bible more approachable for everyday readers. ",
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
-        "VersionID": 11
+        "VersionID": 10,
+        "WikiLink": ""
     },
     {
         "Abreviation": "SLT",
-        "Authors": "",
+        "Authors": "Julia E. Smith",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Smith's Literal Translation (SLT) of the Bible is a monumental work by Julia E. Smith, who became the first woman to translate the entire Bible into English. Her translation journey began in 1847, driven by a desire for a more literal interpretation of the scriptures. She was proficient in Latin, Greek, and Hebrew, and undertook this colossal eight-year task and completed it in 1855. Her approach was unique for its strict literalism, aiming to translate each Greek or Hebrew word consistently with the same English word. This method resulted in a translation that some found mechanical but was groundbreaking in its fidelity to the original texts. The translation was published in 1876 as \"The Holy Bible: Containing the Old and New Testaments; Translated Literally from the Original Tongues.\" Smith's work is not only a significant contribution to biblical scholarship but also a testament to her dedication and scholarly rigor.",
         "Title": "Smith's Literal Translation",
         "VerseCount": 31102,
-        "VersionID": 12
+        "VersionID": 11,
+        "WikiLink": ""
     },
     {
         "Abreviation": "TWF",
         "Authors": "Gregg Butler",
         "Available": 1,
-        "Copyright": "Copyright ©2024 ● Gregg Butler ● Public Domain",
+        "Copyright": "Public Domain",
         "History": "The Twenty-First Century Version (TWF) paraphrased Bible  translation was begun shortly after I had an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. Each verse is analyzed for what it is truly trying to say, and is rewritten in such a way that I can understand what it's saying. It's a translation for me, using modern 21st century English, grammar, and punctuation. The foundation for this translation is the King James Version (KJV), which I find very confusing and difficult to understand. There is a lot of redundancy and repetion within the verses in the old texts. I have tried to proplerly structure the sentences so that run-on sentences, sentences that say the same thing over and over again. I am also trying to restructure the sentences with the proper positioning of Nouns, Pronouns, Verbs, Adverbs, Adjecitives, Modifiers, and Descriptors.",
-        "Links": "",
         "Title": "Twenty-First Century",
         "VerseCount": 31102,
-        "VersionID": 13
+        "VersionID": 12,
+        "WikiLink": ""
     },
     {
         "Abreviation": "TYN",
         "Authors": "William Tyndale",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Tyndale Bible (TYN), a cornerstone in the history of the English Bible, was the work of William Tyndale, who, in the early 16th century, sought to translate the scriptures directly from Hebrew and Greek texts into English, a venture that was both revolutionary and dangerous at the time. Tyndale's translation was the first to take advantage of the printing press, leading to its wide distribution. Despite the lack of official approval and the Catholic Church's resistance, Tyndale's work laid the foundation for subsequent English translations. His New Testament was completed in 1526, with revised editions in 1534 and 1536. Tyndale also translated the Pentateuch and, before his execution for heresy in 1536, had worked on other Old Testament books. His translations were later used in the Matthew Bible and influenced future versions, including the King James Bible. Tyndale's commitment to making the Bible accessible to the English-speaking layperson changed the religious landscape forever, democratizing access to the scriptures and shaping the English language itself.",
         "Title": "Tyndale's Bible",
         "VerseCount": 13928,
-        "VersionID": 14
+        "VersionID": 13,
+        "WikiLink": ""
     },
     {
         "Abreviation": "WEB",
-        "Authors": "",
+        "Authors": "Michael Paul Johnson",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The World English Bible (WEB) is a modern English translation of the Bible that began in 1994 and was completed in 2020. It was initiated by Michael Paul Johnson, who felt a divine call to create a freely distributable English Bible. Without formal training, Johnson studied Greek and Hebrew and utilized scholarly works to start translating the New Testament. He shared his drafts online, incorporating feedback from volunteers. Realizing the enormity of the task, he decided to base his work on the American Standard Version (ASV) of 1901, which was in the public domain and known for its accuracy. Johnson's goal was to modernize the language of the ASV, which he began by creating custom computer programs to assist in the process. The initial draft, named the World English Bible, aimed to be accessible to all English speakers and was distributed via the internet. The WEB includes both American and British English versions and offers two Old Testament types: one with the protocanon and another with apocrypha.",
         "Title": "World English Bible",
         "VerseCount": 31102,
-        "VersionID": 15
+        "VersionID": 14,
+        "WikiLink": ""
     },
     {
         "Abreviation": "YLT",
         "Authors": "Robert Young",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "",
-        "Links": "",
+        "History": "The Young's Literal Translation (YLT) of the Bible is a unique work that stands out for its commitment to textual fidelity. Published in 1862 by Robert Young, the YLT was born out of a desire to render the scriptures as closely to the original texts as possible. Young, a self-taught scholar proficient in ancient languages, utilized the Textus Receptus and the Masoretic Text as the foundation for his translation. His approach was to maintain the tenses and idioms of the original languages, which often resulted in a translation that, while accurate, could be challenging to read due to its strict adherence to the source texts. The YLT underwent revisions, with a notable one in 1887, and a posthumous revision in 1898, ten years after Young's death. These revisions aimed to refine the translation without deviating from Young's original principles of literal translation. In 2020, a major revision called the Literal Standard Version was released, updating the YLT for contemporary readers while maintaining its literal approach. The YLT's legacy is its contribution to a more nuanced understanding of biblical texts, offering insights typically reserved for those familiar with the original languages.",
         "Title": "Young's Literal Translation",
         "VerseCount": 31103,
-        "VersionID": 16
+        "VersionID": 15,
+        "WikiLink": ""
     }
 ]

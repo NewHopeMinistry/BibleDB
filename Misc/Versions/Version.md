@@ -9,21 +9,20 @@ The Versions folder contains the versions data files in various different file f
 |VersionID  |Title                      |Abrv |Verse Count|Copyright    |
 | ----------:| :-------------------------| :-  |----------:| -----------:|
 |           1|American Standard Version  |ASV  |      31102|Public Domain|
-|           2|Authorized King James      |AKJ  |      31102|Public Domain|
-|           3|Berean Standard Bible		 |BSB  |      31102|Public Domain|
-|           4|Bible in Basic English     |BBE  |      31102|Public Domain|
-|           5|Bishop's Bible             |BBB  |      31102|Public Domain|
-|           6|Coverdale Bible		     |CBV  |      31102|Public Domain|
-|           7|Darby English Bible		 |DBY  |	  31099|Public Domain|
-|           8|Douay-Rheims Bible		 |DRB  |      31102|Public Domain|
-|           9|Geneva Bible			     |GNV  |      31102|Public Domain|
-|          10|King James Version		 |KJV  |      31102|Public Domain|
-|          11|Noah Webster's Bible		 |NWB  |	  31106|Public Domain|
-|          12|Smith's Literal Translation|SLT  |      31102|Public Domain|
-|          13|Twenty-First Century Version|TWF |      31102|Gregg Butler <br> Copyright ©2024 <br> Public Domain|
-|          14|Tyndale Bible			     |TYN  |	  13928|Public Domain|
-|          15|World English Bible		 |WEB  |      31102|Public Domain|
-|          16|Young's Literal Translation|YLT  |	  31103|Public Domain|
+|           2|Berean Standard Bible		 |BSB  |      31102|Public Domain|
+|           3|Bible in Basic English     |BBE  |      31102|Public Domain|
+|           4|Bishop's Bible             |BBB  |      31102|Public Domain|
+|           5|Coverdale Bible		     |CBV  |      31102|Public Domain|
+|           6|Darby English Bible		 |DBY  |	  31099|Public Domain|
+|           7|Douay-Rheims Bible		 |DRB  |      31102|Public Domain|
+|           8|Geneva Bible			     |GNV  |      31102|Public Domain|
+|           9|King James Version		 |KJV  |      31102|Public Domain|
+|          10|Noah Webster's Bible		 |NWB  |	  31106|Public Domain|
+|          11|Smith's Literal Translation|SLT  |      31102|Public Domain|
+|          12|Twenty-First Century Version|TWF |      31102|Public Domain|
+|          13|Tyndale Bible			     |TYN  |	  13928|Public Domain|
+|          14|World English Bible		 |WEB  |      31102|Public Domain|
+|          15|Young's Literal Translation|YLT  |	  31103|Public Domain|
 
 ---
 
