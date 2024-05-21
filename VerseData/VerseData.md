@@ -10,8 +10,9 @@ The VerseData folder contains the versions data files in various different file 
 1.  .csv - A file format that can be read by most spreadsheet editors.
 2.  .db - An SQLite3 file that can be edited with the SQL language, or SQLite3 graphical user interfaces such as DB Browser.
 3.  .js - A Javascript file containing a Javascript array object that can be edited with the Javascript scripting language.
-4.  .json - Json file that can be editied with text or code editors and also machine readable. 
-5.  .sql - SQLite3 dump file that can create and populate an SQL table with versions data. 
+4.  .json - Json file that can be editied with text or code editors and also machine readable.
+5.  .jsonc - Jsonc file is identical to a Json file, except that it allows comments.
+6.  .sql - SQLite3 dump file that can create and populate an SQL table with versions data. 
 
 
 ##### Description of Data Stored in Each Field:
