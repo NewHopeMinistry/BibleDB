@@ -8,7 +8,7 @@
         "Title": "American Standard Version",
         "VerseCount": 31102,
         "VersionID": 1,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/American_Standard_Version"
     },
     {
         "Abreviation": "BSB",
@@ -19,7 +19,7 @@
         "Title": "Berean Standard Bible",
         "VerseCount": 31102,
         "VersionID": 2,
-        "WikiLink": ""
+        "WikiLink": "https://bereanbibles.com/about-berean-study-bible/"
     },
     {
         "Abreviation": "BBE",
@@ -30,7 +30,7 @@
         "Title": "Bible in Basic English",
         "VerseCount": 31102,
         "VersionID": 3,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Bible_in_Basic_English"
     },
     {
         "Abreviation": "BBB",
@@ -41,7 +41,7 @@
         "Title": "Bishop's Bible",
         "VerseCount": 31102,
         "VersionID": 4,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Bishops%27_Bible"
     },
     {
         "Abreviation": "CBV",
@@ -52,7 +52,7 @@
         "Title": "Coverdale Bible",
         "VerseCount": 31102,
         "VersionID": 5,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Coverdale_Bible"
     },
     {
         "Abreviation": "DBY",
@@ -63,7 +63,7 @@
         "Title": "Darby English Bible",
         "VerseCount": 31099,
         "VersionID": 6,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Darby_Bible"
     },
     {
         "Abreviation": "DRB",
@@ -74,7 +74,7 @@
         "Title": "Douay-Rheims Bible",
         "VerseCount": 31102,
         "VersionID": 7,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible"
     },
     {
         "Abreviation": "GNV",
@@ -85,7 +85,7 @@
         "Title": "Geneva Bible",
         "VerseCount": 31102,
         "VersionID": 8,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Geneva_Bible"
     },
     {
         "Abreviation": "KJV",
@@ -96,7 +96,7 @@
         "Title": "King James Version",
         "VerseCount": 31102,
         "VersionID": 9,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/King_James_Version"
     },
     {
         "Abreviation": "NAB",
@@ -107,7 +107,7 @@
         "Title": "New American Bible",
         "VerseCount": 31102,
         "VersionID": 10,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/New_American_Bible"
     },
     {
         "Abreviation": "NWB",
@@ -118,7 +118,7 @@
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
         "VersionID": 11,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Webster%27s_Revision"
     },
     {
         "Abreviation": "SLT",
@@ -129,7 +129,7 @@
         "Title": "Smith's Literal Translation",
         "VerseCount": 31102,
         "VersionID": 12,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation"
     },
     {
         "Abreviation": "TYN",
@@ -140,7 +140,7 @@
         "Title": "Tyndale's Bible",
         "VerseCount": 13928,
         "VersionID": 13,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Tyndale_Bible"
     },
     {
         "Abreviation": "WEB",
@@ -151,7 +151,7 @@
         "Title": "World English Bible",
         "VerseCount": 31102,
         "VersionID": 14,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/World_English_Bible"
     },
     {
         "Abreviation": "YLT",
@@ -162,6 +162,6 @@
         "Title": "Young's Literal Translation",
         "VerseCount": 31103,
         "VersionID": 15,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Young%27s_Literal_Translation"
     }
 ]

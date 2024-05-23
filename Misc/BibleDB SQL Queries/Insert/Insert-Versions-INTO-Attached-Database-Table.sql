@@ -1,0 +1,1 @@
+INSERT INTO Versions.Versions SELECT * FROM AAVersions;

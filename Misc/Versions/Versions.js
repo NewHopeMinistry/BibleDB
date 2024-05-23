@@ -8,7 +8,7 @@ var versions = [
         "Title": "American Standard Version",
         "VerseCount": 31102,
         "VersionID": 1,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/American_Standard_Version"
     },
     {
         "Abreviation": "BSB",
@@ -19,7 +19,7 @@ var versions = [
         "Title": "Berean Standard Bible",
         "VerseCount": 31102,
         "VersionID": 2,
-        "WikiLink": ""
+        "WikiLink": "https://bereanbibles.com/about-berean-study-bible/"
     },
     {
         "Abreviation": "BBE",
@@ -30,7 +30,7 @@ var versions = [
         "Title": "Bible in Basic English",
         "VerseCount": 31102,
         "VersionID": 3,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Bible_in_Basic_English"
     },
     {
         "Abreviation": "BBB",
@@ -41,18 +41,18 @@ var versions = [
         "Title": "Bishop's Bible",
         "VerseCount": 31102,
         "VersionID": 4,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Bishops%27_Bible"
     },
     {
         "Abreviation": "CBV",
         "Authors": "Myles Coverdale.",
         "Available": 1,
         "Copyright": "Public Domain",
-        "History": "The Coverdale Bible (CBV), completed by Myles Coverdale and published in 1535, holds the distinction of being the first complete Bible in Modern English and the first printed edition in the language. Coverdale's translation was groundbreaking, as it included both the Old and New Testaments. The work was not entirely original; it was heavily based on William Tyndale's earlier translations of the New Testament and parts of the Old Testament. For the remaining sections, Coverdale utilized a variety of sources, including Latin Vulgate, Martin Luther's German Bible, and the Swiss-German Z├╝rich Bible. The 1535 edition's place of publication was initially disputed, but it is now attributed to Antwerp by Merten de Keyser. The CBV was later incorporated into the Great Bible of 1540 and remained influential in various religious texts, including several editions of the Book of Common Prayer. Over 20 editions of the CBV or its New Testament were published, with the last appearing in 1553.",
+        "History": "The Coverdale Bible (CBV), completed by Myles Coverdale and published in 1535, holds the distinction of being the first complete Bible in Modern English and the first printed edition in the language. Coverdale's translation was groundbreaking, as it included both the Old and New Testaments. The work was not entirely original; it was heavily based on William Tyndale's earlier translations of the New Testament and parts of the Old Testament. For the remaining sections, Coverdale utilized a variety of sources, including Latin Vulgate, Martin Luther's German Bible, and the Swiss-German Zürich Bible. The 1535 edition's place of publication was initially disputed, but it is now attributed to Antwerp by Merten de Keyser. The CBV was later incorporated into the Great Bible of 1540 and remained influential in various religious texts, including several editions of the Book of Common Prayer. Over 20 editions of the CBV or its New Testament were published, with the last appearing in 1553.",
         "Title": "Coverdale Bible",
         "VerseCount": 31102,
         "VersionID": 5,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Coverdale_Bible"
     },
     {
         "Abreviation": "DBY",
@@ -63,7 +63,7 @@ var versions = [
         "Title": "Darby English Bible",
         "VerseCount": 31099,
         "VersionID": 6,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Darby_Bible"
     },
     {
         "Abreviation": "DRB",
@@ -74,7 +74,7 @@ var versions = [
         "Title": "Douay-Rheims Bible",
         "VerseCount": 31102,
         "VersionID": 7,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible"
     },
     {
         "Abreviation": "GNV",
@@ -85,7 +85,7 @@ var versions = [
         "Title": "Geneva Bible",
         "VerseCount": 31102,
         "VersionID": 8,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Geneva_Bible"
     },
     {
         "Abreviation": "KJV",
@@ -96,7 +96,7 @@ var versions = [
         "Title": "King James Version",
         "VerseCount": 31102,
         "VersionID": 9,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/King_James_Version"
     },
     {
         "Abreviation": "NAB",
@@ -107,7 +107,7 @@ var versions = [
         "Title": "New American Bible",
         "VerseCount": 31102,
         "VersionID": 10,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/New_American_Bible"
     },
     {
         "Abreviation": "NWB",
@@ -118,7 +118,7 @@ var versions = [
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
         "VersionID": 11,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Webster%27s_Revision"
     },
     {
         "Abreviation": "SLT",
@@ -129,7 +129,7 @@ var versions = [
         "Title": "Smith's Literal Translation",
         "VerseCount": 31102,
         "VersionID": 12,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation"
     },
     {
         "Abreviation": "TYN",
@@ -140,7 +140,7 @@ var versions = [
         "Title": "Tyndale's Bible",
         "VerseCount": 13928,
         "VersionID": 13,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Tyndale_Bible"
     },
     {
         "Abreviation": "WEB",
@@ -151,7 +151,7 @@ var versions = [
         "Title": "World English Bible",
         "VerseCount": 31102,
         "VersionID": 14,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/World_English_Bible"
     },
     {
         "Abreviation": "YLT",
@@ -162,6 +162,6 @@ var versions = [
         "Title": "Young's Literal Translation",
         "VerseCount": 31103,
         "VersionID": 15,
-        "WikiLink": ""
+        "WikiLink": "https://en.wikipedia.org/wiki/Young%27s_Literal_Translation"
     }
 ]
