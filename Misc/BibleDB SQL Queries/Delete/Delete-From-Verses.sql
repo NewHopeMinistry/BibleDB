@@ -1,1 +1,1 @@
-DELETE FROM BBBVerses.BBBVerses;
+DELETE FROM CBVVerses;
