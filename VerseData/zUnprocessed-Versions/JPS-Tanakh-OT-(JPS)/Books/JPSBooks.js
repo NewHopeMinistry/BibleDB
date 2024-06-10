@@ -1,0 +1,236 @@
+var JPSBooks = [
+    {
+        "Abreviation": "GEN",
+        "Book": "Genesis",
+        "BookID": 1,
+        "Chapters": 50
+    },
+    {
+        "Abreviation": "EXO",
+        "Book": "Exodus",
+        "BookID": 2,
+        "Chapters": 40
+    },
+    {
+        "Abreviation": "LEV",
+        "Book": "Leviticus",
+        "BookID": 3,
+        "Chapters": 27
+    },
+    {
+        "Abreviation": "NUM",
+        "Book": "Numbers",
+        "BookID": 4,
+        "Chapters": 36
+    },
+    {
+        "Abreviation": "DEU",
+        "Book": "Deuteronomy",
+        "BookID": 5,
+        "Chapters": 34
+    },
+    {
+        "Abreviation": "JOS",
+        "Book": "Joshua",
+        "BookID": 6,
+        "Chapters": 24
+    },
+    {
+        "Abreviation": "JDG",
+        "Book": "Judges",
+        "BookID": 7,
+        "Chapters": 21
+    },
+    {
+        "Abreviation": "1SA",
+        "Book": "1 Samuel",
+        "BookID": 8,
+        "Chapters": 31
+    },
+    {
+        "Abreviation": "2SA",
+        "Book": "2 Samuel",
+        "BookID": 9,
+        "Chapters": 24
+    },
+    {
+        "Abreviation": "1KI",
+        "Book": "1 Kings",
+        "BookID": 10,
+        "Chapters": 22
+    },
+    {
+        "Abreviation": "2KI",
+        "Book": "2 Kings",
+        "BookID": 11,
+        "Chapters": 25
+    },
+    {
+        "Abreviation": "ISA",
+        "Book": "Isaiah",
+        "BookID": 12,
+        "Chapters": 66
+    },
+    {
+        "Abreviation": "JER",
+        "Book": "Jeremiah",
+        "BookID": 13,
+        "Chapters": 52
+    },
+    {
+        "Abreviation": "EZK",
+        "Book": "Ezekiel",
+        "BookID": 14,
+        "Chapters": 48
+    },
+    {
+        "Abreviation": "HOS",
+        "Book": "Hosea",
+        "BookID": 15,
+        "Chapters": 14
+    },
+    {
+        "Abreviation": "JOL",
+        "Book": "Joel",
+        "BookID": 16,
+        "Chapters": 3
+    },
+    {
+        "Abreviation": "AMO",
+        "Book": "Amos",
+        "BookID": 17,
+        "Chapters": 9
+    },
+    {
+        "Abreviation": "OBA",
+        "Book": "Obadiah",
+        "BookID": 18,
+        "Chapters": 1
+    },
+    {
+        "Abreviation": "JON",
+        "Book": "Jonah",
+        "BookID": 19,
+        "Chapters": 4
+    },
+    {
+        "Abreviation": "MIC",
+        "Book": "Micah",
+        "BookID": 20,
+        "Chapters": 7
+    },
+    {
+        "Abreviation": "NAM",
+        "Book": "Nahum",
+        "BookID": 21,
+        "Chapters": 3
+    },
+    {
+        "Abreviation": "HAB",
+        "Book": "Habakkuk",
+        "BookID": 22,
+        "Chapters": 3
+    },
+    {
+        "Abreviation": "ZEP",
+        "Book": "Zephaniah",
+        "BookID": 23,
+        "Chapters": 3
+    },
+    {
+        "Abreviation": "HAG",
+        "Book": "Haggai",
+        "BookID": 24,
+        "Chapters": 2
+    },
+    {
+        "Abreviation": "ZEC",
+        "Book": "Zechariah",
+        "BookID": 25,
+        "Chapters": 14
+    },
+    {
+        "Abreviation": "MAL",
+        "Book": "Malachi",
+        "BookID": 26,
+        "Chapters": 4
+    },
+    {
+        "Abreviation": "PSA",
+        "Book": "Psalms",
+        "BookID": 27,
+        "Chapters": 150
+    },
+    {
+        "Abreviation": "PRO",
+        "Book": "Proverbs",
+        "BookID": 28,
+        "Chapters": 31
+    },
+    {
+        "Abreviation": "JOB",
+        "Book": "Job",
+        "BookID": 29,
+        "Chapters": 42
+    },
+    {
+        "Abreviation": "SNG",
+        "Book": "Song of Solomon",
+        "BookID": 30,
+        "Chapters": 8
+    },
+    {
+        "Abreviation": "LAM",
+        "Book": "Lamentations",
+        "BookID": 31,
+        "Chapters": 5
+    },
+    {
+        "Abreviation": "ECC",
+        "Book": "Ecclesiastes",
+        "BookID": 32,
+        "Chapters": 12
+    },
+    {
+        "Abreviation": "EST",
+        "Book": "Esther",
+        "BookID": 33,
+        "Chapters": 10
+    },
+    {
+        "Abreviation": "RUT",
+        "Book": "Ruth",
+        "BookID": 34,
+        "Chapters": 4
+    },
+    {
+        "Abreviation": "DAN",
+        "Book": "Daniel",
+        "BookID": 35,
+        "Chapters": 12
+    },
+    {
+        "Abreviation": "EZR",
+        "Book": "Ezra",
+        "BookID": 36,
+        "Chapters": 10
+    },
+    {
+        "Abreviation": "NEH",
+        "Book": "Nehemiah",
+        "BookID": 37,
+        "Chapters": 13
+    },
+    {
+        "Abreviation": "1CH",
+        "Book": "1 Chronicles",
+        "BookID": 38,
+        "Chapters": 29
+    },
+    {
+        "Abreviation": "2CH",
+        "Book": "2 Chronicles",
+        "BookID": 39,
+        "Chapters": 36
+    }
+];

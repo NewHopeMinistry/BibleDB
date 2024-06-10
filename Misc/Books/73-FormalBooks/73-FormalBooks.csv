@@ -1,0 +1,74 @@
+BookID,Book,Abreviation,Chapters
+1,Genesis,GEN,50
+2,Exodus,EXO,40
+3,Leviticus,LEV,27
+4,Numbers,NUM,36
+5,Deuteronomy,DEU,34
+6,Joshua,JOS,24
+7,Judges,JDG,21
+8,Ruth,RUT,4
+9,First Samuel,1SA,31
+10,Second Samuel,2SA,24
+11,First Kings,1KI,22
+12,Second Kings,2KI,25
+13,First Chronicles,1CH,29
+14,Second Chronicles,2CH,36
+15,Ezra,EZR,10
+16,Nehemiah,NEH,13
+17,Esther,EST,16
+18,Job,JOB,42
+19,Psalms,PSA,150
+20,Proverbs,PRO,31
+21,Ecclesiastes,ECC,12
+22,Song of Solomon,SNG,8
+23,Isaiah,ISA,66
+24,Jeremiah,JER,52
+25,Lamentations,LAM,5
+26,Ezekiel,EZK,48
+27,Daniel,DAN,14
+28,Hosea,HOS,14
+29,Joel,JOL,3
+30,Amos,AMO,9
+31,Obadiah,OBA,1
+32,Jonah,JON,4
+33,Micah,MIC,7
+34,Nahum,NAM,3
+35,Habakkuk,HAB,3
+36,Zephaniah,ZEP,3
+37,Haggai,HAG,2
+38,Zechariah,ZEC,14
+39,Malachi,MAL,4
+40,Tobit,TOB,14
+41,Judith,JDT,16
+42,Wisdom of Solomon,WIS,19
+43,Sirach,SIR,51
+44,Baruch,BAR,6
+45,First Maccabees,1MA,16
+46,Second Maccabees,2MA,15
+47,Matthew,MAT,28
+48,Mark,MRK,16
+49,Luke,LUK,24
+50,John,JHN,21
+51,Acts,ACT,28
+52,Romans,ROM,16
+53,First Corinthians,1CO,16
+54,Second Corinthians,2CO,13
+55,Galatians,GAL,6
+56,Ephesians,EPH,6
+57,Philippians,PHP,4
+58,Colossians,COL,4
+59,First Thessalonians,1TH,5
+60,Second Thessalonians,2TH,3
+61,First Timothy,1TI,6
+62,Second Timothy,2TI,4
+63,Titus,TIT,3
+64,Philemon,PHM,1
+65,Hebrews,HEB,13
+66,James,JAS,5
+67,First Peter,1PE,5
+68,Second Peter,2PE,3
+69,First John,1JN,5
+70,Second John,2JN,1
+71,Third John,3JN,1
+72,Jude,JUD,1
+73,Revelation,REV,22

@@ -1,0 +1,75 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "ULBBooks" (
+	"BookID"	INTEGER NOT NULL DEFAULT 0 UNIQUE,
+	"Book"	TEXT NOT NULL DEFAULT '',
+	"Abreviation"	TEXT NOT NULL DEFAULT '',
+	"Chapters"	INTEGER NOT NULL DEFAULT 0,
+	PRIMARY KEY("BookID" AUTOINCREMENT)
+);
+INSERT INTO "ULBBooks" VALUES (1,'Genesis','GEN',50);
+INSERT INTO "ULBBooks" VALUES (2,'Exodus','EXO',40);
+INSERT INTO "ULBBooks" VALUES (3,'Leviticus','LEV',27);
+INSERT INTO "ULBBooks" VALUES (4,'Numbers','NUM',36);
+INSERT INTO "ULBBooks" VALUES (5,'Deuteronomy','DEU',34);
+INSERT INTO "ULBBooks" VALUES (6,'Joshua','JOS',24);
+INSERT INTO "ULBBooks" VALUES (7,'Judges','JDG',21);
+INSERT INTO "ULBBooks" VALUES (8,'Ruth','RUT',4);
+INSERT INTO "ULBBooks" VALUES (9,'First Samuel','1SA',31);
+INSERT INTO "ULBBooks" VALUES (10,'Second Samuel','2SA',24);
+INSERT INTO "ULBBooks" VALUES (11,'First Kings','1KI',22);
+INSERT INTO "ULBBooks" VALUES (12,'Second Kings','2KI',25);
+INSERT INTO "ULBBooks" VALUES (13,'First Chronicles','1CH',29);
+INSERT INTO "ULBBooks" VALUES (14,'Second Chronicles','2CH',36);
+INSERT INTO "ULBBooks" VALUES (15,'Ezra','EZR',10);
+INSERT INTO "ULBBooks" VALUES (16,'Nehemiah','NEH',13);
+INSERT INTO "ULBBooks" VALUES (17,'Esther','EST',10);
+INSERT INTO "ULBBooks" VALUES (18,'Job','JOB',42);
+INSERT INTO "ULBBooks" VALUES (19,'Psalms','PSA',150);
+INSERT INTO "ULBBooks" VALUES (20,'Proverbs','PRO',31);
+INSERT INTO "ULBBooks" VALUES (21,'Ecclesiastes','ECC',12);
+INSERT INTO "ULBBooks" VALUES (22,'Song of Solomon','SNG',8);
+INSERT INTO "ULBBooks" VALUES (23,'Isaiah','ISA',66);
+INSERT INTO "ULBBooks" VALUES (24,'Jeremiah','JER',52);
+INSERT INTO "ULBBooks" VALUES (25,'Lamentations','LAM',5);
+INSERT INTO "ULBBooks" VALUES (26,'Ezekiel','EZK',48);
+INSERT INTO "ULBBooks" VALUES (27,'Daniel','DAN',12);
+INSERT INTO "ULBBooks" VALUES (28,'Hosea','HOS',14);
+INSERT INTO "ULBBooks" VALUES (29,'Joel','JOL',3);
+INSERT INTO "ULBBooks" VALUES (30,'Amos','AMO',9);
+INSERT INTO "ULBBooks" VALUES (31,'Obadiah','OBA',1);
+INSERT INTO "ULBBooks" VALUES (32,'Jonah','JON',4);
+INSERT INTO "ULBBooks" VALUES (33,'Micah','MIC',7);
+INSERT INTO "ULBBooks" VALUES (34,'Nahum','NAM',3);
+INSERT INTO "ULBBooks" VALUES (35,'Habakkuk','HAB',3);
+INSERT INTO "ULBBooks" VALUES (36,'Zephaniah','ZEP',3);
+INSERT INTO "ULBBooks" VALUES (37,'Haggai','HAG',2);
+INSERT INTO "ULBBooks" VALUES (38,'Zechariah','ZEC',14);
+INSERT INTO "ULBBooks" VALUES (39,'Malachi','MAL',4);
+INSERT INTO "ULBBooks" VALUES (40,'Matthew','MAT',28);
+INSERT INTO "ULBBooks" VALUES (41,'Mark','MRK',16);
+INSERT INTO "ULBBooks" VALUES (42,'Luke','LUK',24);
+INSERT INTO "ULBBooks" VALUES (43,'John','JHN',21);
+INSERT INTO "ULBBooks" VALUES (44,'Acts','ACT',28);
+INSERT INTO "ULBBooks" VALUES (45,'Romans','ROM',16);
+INSERT INTO "ULBBooks" VALUES (46,'First Corinthians','1CO',16);
+INSERT INTO "ULBBooks" VALUES (47,'Second Corinthians','2CO',13);
+INSERT INTO "ULBBooks" VALUES (48,'Galatians','GAL',6);
+INSERT INTO "ULBBooks" VALUES (49,'Ephesians','EPH',6);
+INSERT INTO "ULBBooks" VALUES (50,'Philippians','PHP',4);
+INSERT INTO "ULBBooks" VALUES (51,'Colossians','COL',4);
+INSERT INTO "ULBBooks" VALUES (52,'First Thessalonians','1TH',5);
+INSERT INTO "ULBBooks" VALUES (53,'Second Thessalonians','2TH',3);
+INSERT INTO "ULBBooks" VALUES (54,'First Timothy','1TI',6);
+INSERT INTO "ULBBooks" VALUES (55,'Second Timothy','2TI',4);
+INSERT INTO "ULBBooks" VALUES (56,'Titus','TIT',3);
+INSERT INTO "ULBBooks" VALUES (57,'Philemon','PHM',1);
+INSERT INTO "ULBBooks" VALUES (58,'Hebrews','HEB',13);
+INSERT INTO "ULBBooks" VALUES (59,'James','JAS',5);
+INSERT INTO "ULBBooks" VALUES (60,'First Peter','1PE',5);
+INSERT INTO "ULBBooks" VALUES (61,'Second Peter','2PE',3);
+INSERT INTO "ULBBooks" VALUES (62,'First John','1JN',5);
+INSERT INTO "ULBBooks" VALUES (63,'Second John','2JN',1);
+INSERT INTO "ULBBooks" VALUES (64,'Third John','3JN',1);
+INSERT INTO "ULBBooks" VALUES (65,'Jude','JUD',1);
+INSERT INTO "ULBBooks" VALUES (66,'Revelation','REV',22);
+COMMIT;

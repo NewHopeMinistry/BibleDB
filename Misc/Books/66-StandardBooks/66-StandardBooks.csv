@@ -1,0 +1,68 @@
+66 Books for Versions with 31102 Verses: Chapter Count Verified:
+BookID,Chapters,Book,Abreviation
+1,50,Genesis,GEN
+2,40,Exodus,EXO
+3,27,Leviticus,LEV
+4,36,Numbers,NUM
+5,34,Deuteronomy,DEU
+6,24,Joshua,JOS
+7,21,Judges,JDG
+8,4,Ruth,RUT
+9,31,1 Samuel,1SA
+10,24,2 Samuel,2SA
+11,22,1 Kings,1KI
+12,25,2 Kings,2KI
+13,29,1 Chronicles,1CH
+14,36,2 Chronicles,2CH
+15,10,Ezra,EZR
+16,13,Nehemiah,NEH
+17,10,Esther,EST
+18,42,Job,JOB
+19,150,Psalms,PSA
+20,31,Proverbs,PRO
+21,12,Ecclesiastes,ECC
+22,8,Song of Solomon,SNG
+23,66,Isaiah,ISA
+24,52,Jeremiah,JER
+25,5,Lamentations,LAM
+26,48,Ezekiel,EZK
+27,12,Daniel,DAN
+28,14,Hosea,HOS
+29,3,Joel,JOL
+30,9,Amos,AMO
+31,1,Obadiah,OBA
+32,4,Jonah,JON
+33,7,Micah,MIC
+34,3,Nahum,NAM
+35,3,Habakkuk,HAB
+36,3,Zephaniah,ZEP
+37,2,Haggai,HAG
+38,14,Zechariah,ZEC
+39,4,Malachi,MAL
+40,28,Matthew,MAT
+41,16,Mark,MRK
+42,24,Luke,LUK
+43,21,John,JHN
+44,28,Acts,ACT
+45,16,Romans,ROM
+46,16,1 Corinthians,1CO
+47,13,2 Corinthians,2CO
+48,6,Galatians,GAL
+49,6,Ephesians,EPH
+50,4,Philippians,PHP
+51,4,Colossians,COL
+52,5,1 Thessalonians,1TH
+53,3,2 Thessalonians,2TH
+54,6,1 Timothy,1TI
+55,4,2 Timothy,2TI
+56,3,Titus,TIT
+57,1,Philemon,PHM
+58,13,Hebrews,HEB
+59,5,James,JAS
+60,5,1 Peter,1PE
+61,3,2 Peter,2PE
+62,5,1 John,1JN
+63,1,2 John,2JN
+64,1,3 John,3JN
+65,1,Jude,JUD
+66,22,Revelation,REV
