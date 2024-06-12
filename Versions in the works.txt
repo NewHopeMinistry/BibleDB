@@ -29,7 +29,3 @@ World-English-Bible-(WEB)
 x Wycliffe's-Bible-w-Modern-Spelling-Enhanced-(WBE)
 x Wycliffe's-Bible-w-Modern-Spelling-w-Deuterocanon(WBM)
 Young's-Literal-Translation-(YLT)
-
-
-
-

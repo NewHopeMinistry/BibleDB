@@ -1,0 +1,1 @@
+INSERT INTO WEYVerses SELECT * FROM UnprocessedDB.WEYVerses;

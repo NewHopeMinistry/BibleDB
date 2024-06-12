@@ -6,23 +6,33 @@ The Versions folder contains the versions data files in various different file f
 
 <br>
 
-|VersionID  |Title                       |Abrv |Verse Count|Copyright    |
-| ----------:| :-------------------------| :-  |----------:| :-----------:|
-|           1|American Standard Version  |ASV  |      31102|Public Domain|
-|           2|Berean Standard Bible		 |BSB  |      31102|Public Domain|
-|           3|Bible in Basic English     |BBE  |      31102|Public Domain|
-|           4|Bishop's Bible             |BBB  |      31102|Public Domain|
-|           5|Coverdale Bible		     |CBV  |      31102|Public Domain|
-|           6|Darby English Bible		 |DBY  |	  31099|Public Domain|
-|           7|Douay-Rheims Bible		 |DRB  |      31102|Public Domain|
-|           8|Geneva Bible			     |GNV  |      31102|Public Domain|
-|           9|King James Version		 |KJV  |      31102|Public Domain|
-|          10|New American Bible         |NAB  |      31102|Public Domain|
-|          11|Noah Webster's Bible		 |NWB  |	  31106|Public Domain|
-|          12|Smith's Literal Translation|SLT  |      31102|Public Domain|
-|          13|Tyndale Bible			     |TYN  |	  13928|Public Domain|
-|          14|World English Bible		 |WEB  |      31102|Public Domain|
-|          15|Young's Literal Translation|YLT  |	  31103|Public Domain|
+|VersionID  |Title                     |Abrv |Verse Count|Copyright    |
+|--:| :--------------------------------| :---|----------:| :----------:|
+|  1|American King James Version       |ASV  |      31102|Public Domain|
+|  2|American Standard Version         |ASV  |      31102|Public Domain|
+|  3|Berean Standard Bible		       |BSB  |      31102|Public Domain|
+|  4|Bible in Basic English            |BBE  |      31102|Public Domain|
+|  5|Bishop's Bible                    |BBB  |      31102|Public Domain|
+|  6|Coverdale Bible		           |CBV  |      31102|Public Domain|
+|  7|Darby English Bible		       |DBY  |	    31099|Public Domain|
+|  8|Douay-Rheims Bible		           |DRB  |      31102|Public Domain|
+|  9|Douay-Rheims 1899 American Version|DRB  |      35811|Public Domain|
+| 10|English Revised Version           |ERV  |      31102|Public Domain|
+| 11|Free Bible Version			       |FBV  |      31087|Public Domain|
+| 12|Geneva Bible			           |GNV  |      31102|Public Domain|
+| 13|JPS Tanakh-OT 1917		           |JPS  |      23145|Public Domain|
+| 14|King James + Apocrypha	           |KJA  |      36822|Public Domain|
+| 15|King James Version		           |KJV  |      31102|Public Domain|
+| 16|Literal Standard Version          |LSV  |      31104|Public Domain|
+| 17|New American Bible                |NAB  |      31102|Public Domain|
+| 18|Noah Webster's Bible		       |NWB  |	    31106|Public Domain|
+| 19|Smith's Literal Translation       |SLT  |      31102|Public Domain|
+| 20|Translation for Translators       |T4T  |	    30640|Public Domain|
+| 21|Tyndale Bible			           |TYN  |	    13928|Public Domain|
+| 22|Unlocked Literal Bible		       |ULB  |      31078|Public Domain|
+| 23|Weymouth New Testament		       |WEY  |       7957|Public Domain|
+| 24|World English Bible		       |WEB  |      31102|Public Domain|
+| 25|Young's Literal Translation       |YLT  |	    31103|Public Domain|
 
 ---
 
