@@ -1,1 +1,1 @@
-INSERT INTO WEYVerses SELECT * FROM UnprocessedDB.WEYVerses;
+INSERT INTO WEYVerses.WEYVerses SELECT * FROM WEYVerses;
