@@ -1,0 +1,41 @@
+Jewish Publication Society 1917 Tanakh OT (JPS) Books:
+BookID,Book,Abreviation,Chapters
+1,Genesis,GEN,50
+2,Exodus,EXO,40
+3,Leviticus,LEV,27
+4,Numbers,NUM,36
+5,Deuteronomy,DEU,34
+6,Joshua,JOS,24
+7,Judges,JDG,21
+8,1 Samuel,1SA,31
+9,2 Samuel,2SA,24
+10,1 Kings,1KI,22
+11,2 Kings,2KI,25
+12,Isaiah,ISA,66
+13,Jeremiah,JER,52
+14,Ezekiel,EZK,48
+15,Hosea,HOS,14
+16,Joel,JOL,3
+17,Amos,AMO,9
+18,Obadiah,OBA,1
+19,Jonah,JON,4
+20,Micah,MIC,7
+21,Nahum,NAM,3
+22,Habakkuk,HAB,3
+23,Zephaniah,ZEP,3
+24,Haggai,HAG,2
+25,Zechariah,ZEC,14
+26,Malachi,MAL,4
+27,Psalms,PSA,150
+28,Proverbs,PRO,31
+29,Job,JOB,42
+30,Song of Solomon,SNG,8
+31,Lamentations,LAM,5
+32,Ecclesiastes,ECC,12
+33,Esther,EST,10
+34,Ruth,RUT,4
+35,Daniel,DAN,12
+36,Ezra,EZR,10
+37,Nehemiah,NEH,13
+38,1 Chronicles,1CH,29
+39,2 Chronicles,2CH,36

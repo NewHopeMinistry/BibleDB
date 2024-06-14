@@ -1,0 +1,35 @@
+Tyndale Bible (TYN) Books:
+BookID,Book,Abreviation,Chapters
+1,Genesis,GEN,50
+2,Exodus,EXO,40
+3,Leviticus,LEV,27
+4,Numbers,NUM,36
+5,Deuteronomy,DEU,34
+6,Jonah,JON,4
+7,Matthew,MAT,28
+8,Mark,MRK,16
+9,Luke,LUK,24
+10,John,JHN,21
+11,Acts,ACT,28
+12,Romans,ROM,16
+13,1 Corinthians,1CO,16
+14,2 Corinthians,2CO,13
+15,Galatians,GAL,6
+16,Ephesians,EPH,6
+17,Philippians,PHP,4
+18,Colossians,COL,4
+19,1 Thessalonians,1TH,5
+20,2 Thessalonians,2TH,3
+21,1 Timothy,1TI,6
+22,2 Timothy,2TI,4
+23,Titus,TIT,3
+24,Philemon,PHM,4
+25,Hebrews,HEB,13
+26,James,JAS,5
+27,1 Peter,1PE,5
+28,2 Peter,2PE,3
+29,1 John,1JN,5
+30,2 John,2JN,1
+31,3 John,3JN,1
+32,Jude,JUD,1
+33,Revelation,REV,22
