@@ -58,4 +58,15 @@ The Versions folder contains the versions data files in various different file f
 6. Title = The Title of each version.
 7. VerseCount = The verse count of each version.
 8. VersionID = A unique primary index key for each version.
-9. Available = A version is available if the verses and all the related data is entered into the database.
+9. Status = If the Status = 0, it's data is incomplete, or not in the BibleDB.db database, and should not be considered to be available for use. Below is a table with the possible values of the Status field. If the status is not 0, then the data is available, and depending on the value 1-5 indicates which set of books the table uses.
+
+|Status|Description|
+| -----| ----------|
+|0|No data, not available|
+|1|Data available, 66-StandardBooks|
+|2|Data available, 66-FormalBooks|
+|3|Data available, 73-StandardBooks|
+|4|Data available, 73-FormalBooks|
+|5|Data available, uses a custom list of Books|
+
+##### All versions have a complete list of books for each version in the books folder within their respective folders.
