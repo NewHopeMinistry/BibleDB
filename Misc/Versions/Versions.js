@@ -157,7 +157,7 @@ var versions = [
         "Abreviation": "KJV",
         "Authors": "Richard Bancroft, the archbishop of Canterbury, and 47 other scholars and clergy.",
         "Copyright": "Public Domain",
-        "History": "The translation began in 1892 under the Central Conference of American Rabbis. Initially, individual rabbis and scholars were assigned different books, but progress was slow. In 1908, the Jewish Publication Society took over the project, and formed a committee of seven editors.",
+        "History": "The King James Version (KJV) of the Bible emerged in early 17th century England. King James I wanted to settle religious disputes and unify the country under a single Bible translation, so he commissioned the project in 1604. Prior English translations existed, but some were considered inaccurate or politically motivated. The KJV sought to be a scholarly and authoritative version. Dozens of translators worked from existing Hebrew and Greek texts, and the resulting text aimed for both accuracy and elegance. Published in 1611, the KJV quickly gained popularity.",
         "Status": 1,
         "Title": "King James Version",
         "VerseCount": 31102,
