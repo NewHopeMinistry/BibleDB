@@ -8,7 +8,7 @@ The Versions folder contains the versions data files in various different file f
 
 |VersionID  |Title                     |Abrv |Verse Count|Copyright    |
 |--:| :--------------------------------| :---|----------:| :----------:|
-|  1|American King James Version       |ASV  |      31102|Public Domain|
+|  1|American King James Version       |AKJ  |      31102|Public Domain|
 |  2|American Standard Version         |ASV  |      31102|Public Domain|
 |  3|Berean Standard Bible		       |BSB  |      31102|Public Domain|
 |  4|Bible in Basic English            |BBE  |      31102|Public Domain|
@@ -24,7 +24,7 @@ The Versions folder contains the versions data files in various different file f
 | 14|King James + Apocrypha	           |KJA  |      36822|Public Domain|
 | 15|King James Version		           |KJV  |      31102|Public Domain|
 | 16|Literal Standard Version          |LSV  |      31104|Public Domain|
-| 17|New American Bible                |NAB  |      31102|Public Domain|
+| 17|New Life Bible                    |NLB  |      31102|Public Domain|
 | 18|Noah Webster's Bible		       |NWB  |	    31106|Public Domain|
 | 19|Smith's Literal Translation       |SLT  |      31102|Public Domain|
 | 20|Translation for Translators       |T4T  |	    30640|Public Domain|

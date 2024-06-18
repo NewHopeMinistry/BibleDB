@@ -3,7 +3,7 @@ var versions = [
         "Abreviation": "AKJ",
         "Authors": "Michael Peter (Stone) Engelbrite",
         "Copyright": "Public Domain",
-        "History": "The American King James Version (AKJV) isn't a new translation, but a revision of the classic 1611 King James Version (KJV) by Michael Peter (Stone) Engelbrite. Released in 1999, the AKJV aimed to bridge the gap between the beautiful, but sometimes archaic, English of the KJV and the speech patterns of modern Americans. Engelbrite believed in staying faithful to the original meaning, so he focused on updating spellings and vocabulary rather than changing sentence structure or grammar. This kept the familiar and beloved style of the KJV while making it more accessible for contemporary readers. Engelbrite released the AKJV into the public domain, allowing anyone to freely copy, distribute, or even modify it, as long as the core message remained unchanged.",
+        "History": "The American King James Version (AKJ) isn't a new translation, but a revision of the classic 1611 King James Version (KJV) by Michael Peter (Stone) Engelbrite. Released in 1999, the AKJ aimed to bridge the gap between the beautiful, but sometimes archaic, English of the KJV and the speech patterns of modern Americans. Engelbrite believed in staying faithful to the original meaning, so he focused on updating spellings and vocabulary rather than changing sentence structure or grammar. This kept the familiar and beloved style of the KJV while making it more accessible for contemporary readers. Engelbrite released the AKJ into the public domain, allowing anyone to freely copy, distribute, or even modify it, as long as the core message remained unchanged.",
         "Status": 1,
         "Title": "American King James Version",
         "VerseCount": 31102,
@@ -176,15 +176,15 @@ var versions = [
         "WikiLink": "https://en.wikipedia.org/wiki/Literal_Standard_Version"
     },
     {
-        "Abreviation": "NAB",
+        "Abreviation": "NLB",
         "Authors": "God's Servant",
         "Copyright": "Public Domain",
-        "History": "The New American Bible (NAB) paraphrased translation was begun shortly after I had an encounter with the angel Gabriel during an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Holy Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. I have analyzed each verse and have faithfully recorded what it says to me through the Holy Spirit. I have rewritten each verse in such a way that I can understand what God is saying to me. It's a translation for me and anyone else, who finds the King James Version (KJV) to be very confusing and difficult to understand. This translation uses modern 21st century English, grammar, punctuation, and removes a lot of redundancy, repetion, and run-on sentences within the verses of the ancient texts. I am trying to restructure the sentences with the proper English positioning of Nouns, Pronouns, Verbs, Adverbs, Adjectives, Modifiers, and Descriptors. I intend to finish this work, no matter what the modern day church Pharisees do to try to lock God into an old book, or to try and stop my Heavenly Father from working in the 21st century... e.g. ED, Marty, Norm, Tom",
+        "History": "The New Life Bible (NLB) paraphrased translation was begun shortly after I had an encounter with the angel Gabriel during an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Holy Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. I have analyzed each verse and have faithfully recorded what it says to me through the Holy Spirit. I have rewritten each verse in such a way that I can understand what God is saying to me. It's a translation for me and anyone else, who finds the King James Version (KJV) to be very confusing and difficult to understand. This translation uses modern 21st century English, grammar, punctuation, and removes a lot of redundancy, repetion, and run-on sentences within the verses of the ancient texts. I am trying to restructure the sentences with the proper English positioning of Nouns, Pronouns, Verbs, Adverbs, Adjectives, Modifiers, and Descriptors.",
         "Status": 0,
-        "Title": "New American Bible",
+        "Title": "New Life Bible",
         "VerseCount": 31102,
         "VersionID": 17,
-        "WikiLink": "https://en.wikipedia.org/wiki/New_American_Bible"
+        "WikiLink": ""
     },
     {
         "Abreviation": "NWB",
