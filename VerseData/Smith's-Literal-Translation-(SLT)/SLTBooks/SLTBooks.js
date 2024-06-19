@@ -1,3 +1,4 @@
+//  Smith's Literal Translation (SLT) Books:
 var SLTBooks = [
     {
         "Abreviation": "GEN",

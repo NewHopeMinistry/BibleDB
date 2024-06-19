@@ -3,7 +3,7 @@
         "Abreviation": "AKJ",
         "Authors": "Michael Peter (Stone) Engelbrite",
         "Copyright": "Public Domain",
-        "History": "The American King James Version (AKJ) isn't a new translation, but a revision of the classic 1611 King James Version (KJV) by Michael Peter (Stone) Engelbrite. Released in 1999, the AKJ aimed to bridge the gap between the beautiful, but sometimes archaic, English of the KJV and the speech patterns of modern Americans. Engelbrite believed in staying faithful to the original meaning, so he focused on updating spellings and vocabulary rather than changing sentence structure or grammar. This kept the familiar and beloved style of the KJV while making it more accessible for contemporary readers. Engelbrite released the AKJ into the public domain, allowing anyone to freely copy, distribute, or even modify it, as long as the core message remained unchanged.",
+        "History": "The American King James Version (AKJ) isn't a new translation, but a revision of the classic 1611 King James Version (KJV) by Michael Peter (Stone) Engelbrite. Released in 1999, the AKJV aimed to bridge the gap between the beautiful, but sometimes archaic, English of the KJV and the speech patterns of modern Americans. Engelbrite believed in staying faithful to the original meaning, so he focused on updating spellings and vocabulary rather than changing sentence structure or grammar. This kept the familiar and beloved style of the KJV while making it more accessible for contemporary readers. Engelbrite released the AKJ into the public domain, allowing anyone to freely copy, distribute, or even modify it, as long as the core message remained unchanged.",
         "Status": 1,
         "Title": "American King James Version",
         "VerseCount": 31102,
@@ -176,17 +176,6 @@
         "WikiLink": "https://en.wikipedia.org/wiki/Literal_Standard_Version"
     },
     {
-        "Abreviation": "NLB",
-        "Authors": "God's Servant",
-        "Copyright": "Public Domain",
-        "History": "The New Life Bible (NLB) paraphrased translation was begun shortly after I had an encounter with the angel Gabriel during an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since then. The Holy Spirit is my guiding influence in this endeavor. The Holy Spirit has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful translation of the Bible. I have analyzed each verse and have faithfully recorded what it says to me through the Holy Spirit. I have rewritten each verse in such a way that I can understand what God is saying to me. It's a translation for me and anyone else, who finds the King James Version (KJV) to be very confusing and difficult to understand. This translation uses modern 21st century English, grammar, punctuation, and removes a lot of redundancy, repetion, and run-on sentences within the verses of the ancient texts. I am trying to restructure the sentences with the proper English positioning of Nouns, Pronouns, Verbs, Adverbs, Adjectives, Modifiers, and Descriptors.",
-        "Status": 0,
-        "Title": "New Life Bible",
-        "VerseCount": 31102,
-        "VersionID": 17,
-        "WikiLink": ""
-    },
-    {
         "Abreviation": "NWB",
         "Authors": "Noah Webster",
         "Copyright": "Public Domain",
@@ -194,7 +183,7 @@
         "Status": 1,
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
-        "VersionID": 18,
+        "VersionID": 17,
         "WikiLink": "https://en.wikipedia.org/wiki/Webster%27s_Revision"
     },
     {
@@ -205,7 +194,7 @@
         "Status": 1,
         "Title": "Smith's Literal Translation",
         "VerseCount": 31102,
-        "VersionID": 19,
+        "VersionID": 18,
         "WikiLink": "https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation"
     },
     {
@@ -216,8 +205,19 @@
         "Status": 1,
         "Title": "Translation for Translators",
         "VerseCount": 30640,
-        "VersionID": 20,
+        "VersionID": 19,
         "WikiLink": "http://bible.ink/version/info.html?T4T"
+    },
+    {
+        "Abreviation": "TWF",
+        "Authors": "God's Servant",
+        "Copyright": "Public Domain",
+        "History": "The Twenty-First Century Version (TWF) paraphrased translation was begun shortly after I had an encounter with the angel Gabriel during an extended stay in the hospital in 2018. I feel very strongly that God has called me to do this work, and I have dedicated myself to it since. The Holy Spirit is my guiding influence in this endeavor, and has revealed to me that God wants a new scripture with a much softer and more forgiving tone than the traditional Scriptures. This is not a word for word translation of the Bible, but it is a faithful interpretation of the Bible. I have analyzed each verse and faithfully recorded what it says to me through the Holy Spirit. I have rewritten each verse in such a way that I can understand what God is saying. This translation uses modern 21st century English, grammar, punctuation, and removes a lot of redundancy, repetion, and run-on sentences within the verses of the ancient texts. This interpretation is really a therapeutic Bible study for my soul, and for anyone else who may want to read it.",
+        "Status": 0,
+        "Title": "Twenty-First Century Version",
+        "VerseCount": 31102,
+        "VersionID": 20,
+        "WikiLink": ""
     },
     {
         "Abreviation": "TYN",

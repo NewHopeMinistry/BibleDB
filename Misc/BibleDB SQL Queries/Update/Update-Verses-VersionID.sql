@@ -1,1 +1,1 @@
-UPDATE WEYVerses SET VersionID = 25;
+UPDATE YLTVerses SET VersionID = 25;
