@@ -1,1 +1,1 @@
-UPDATE YLTVerses SET VersionID = 25;
+UPDATE KJAVerses SET VersionID = 15;
