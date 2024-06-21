@@ -1,1 +1,1 @@
-DELETE FROM CBVVerses;
+DELETE FROM TWFVerses;
