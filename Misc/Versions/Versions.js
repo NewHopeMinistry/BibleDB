@@ -22,6 +22,17 @@ var versions = [
         "WikiLink": "https://en.wikipedia.org/wiki/American_Standard_Version"
     },
     {
+        "Abreviation": "AKV",
+        "Authors": "Richard Bancroft, the archbishop of Canterbury, and 47 other scholars and clergy in 1611.",
+        "Copyright": "Public Domain",
+        "History": "The Authorized King James Version (AKV) began in early 17th century England, when King James I, authorized a new Bible translation to address religious controversies and solidify his own rule. Dozens of scholars spent years working on the project, drawing from existing English translations and ancient Greek and Hebrew texts. The resulting Authorized King James Version (AKV) was published in 1611. The AKV's beautiful and enduring language quickly gained popularity.  It became the standard English Bible for centuries, shaping not just religious practice but also literature and law.  Its influence on the English language is undeniable, introducing many phrases and expressions still in use today. The terms \"Authorized King James Version\" (AKV) and \"King James Version\" (KJV) are often used interchangeably. There are very subtle differences, technically: \"Authorized King James Version\" (AKV) is the most accurate term. King James never officially \"authorized\" the translation, though he did commission it. In practice: King James Version KJV typically refers to the 1769 edition, which saw minor revisions from the 1611 original, AKV might specifically reference the 1611 edition or editions very close to it. Overall: The differences between the AKV and the KJV are very minor, mostly punctuation or capitalization. Both refer to the core 1611 translation.",
+        "Status": 0,
+        "Title": "Authorized King James Version",
+        "VerseCount": 31102,
+        "VersionID": 3,
+        "WikiLink": "https://en.wikipedia.org/wiki/King_James_Version"
+    },
+    {
         "Abreviation": "BSB",
         "Authors": "Dr. Gary Hill, Dr. Maury Robertson, Dr. Eugene H. Merrill, Dr. Ulrik Sandborg-Petersen, Dr. Baruch Korman, and Dr. Grant Osborne. T, and others.",
         "Copyright": "Public Domain",
@@ -29,7 +40,7 @@ var versions = [
         "Status": 1,
         "Title": "Berean Standard Bible",
         "VerseCount": 31102,
-        "VersionID": 3,
+        "VersionID": 4,
         "WikiLink": "https://bereanbibles.com/about-berean-study-bible/"
     },
     {
@@ -40,7 +51,7 @@ var versions = [
         "Status": 1,
         "Title": "Bible in Basic English",
         "VerseCount": 31102,
-        "VersionID": 4,
+        "VersionID": 5,
         "WikiLink": "https://en.wikipedia.org/wiki/Bible_in_Basic_English"
     },
     {
@@ -51,7 +62,7 @@ var versions = [
         "Status": 1,
         "Title": "Bishop's Bible",
         "VerseCount": 31102,
-        "VersionID": 5,
+        "VersionID": 6,
         "WikiLink": "https://en.wikipedia.org/wiki/Bishops%27_Bible"
     },
     {
@@ -62,7 +73,7 @@ var versions = [
         "Status": 1,
         "Title": "Coverdale Bible",
         "VerseCount": 31102,
-        "VersionID": 6,
+        "VersionID": 7,
         "WikiLink": "https://en.wikipedia.org/wiki/Coverdale_Bible"
     },
     {
@@ -73,18 +84,18 @@ var versions = [
         "Status": 1,
         "Title": "Darby English Bible",
         "VerseCount": 31099,
-        "VersionID": 7,
+        "VersionID": 8,
         "WikiLink": "https://en.wikipedia.org/wiki/Darby_Bible"
     },
     {
         "Abreviation": "DRA",
         "Authors": "Gregory Martin, Cardinal William Allen, and members of the Catholic seminary English College, Douai, France. In 1749-1752 Richard Challoner, in 1790 Matthew Carey, and later others in the late 19th and early 20th centuries.",
         "Copyright": "Public Domain",
-        "History": "The Douay-Rheims 1899 American Edition (DRA) Bible was a revision of the Douay-Rheims Bible (DRB), which was translated from the Latin Vulgate into English, and was primarily the work of Gregory Martin, an Oxford-trained scholar. Martin collaborated with other members of the Catholic seminary English College in Douai, France. Under the sponsorship of Cardinal William Allen, they produced the New Testament, which appeared in Rheims in 1582, and the Old Testament, published in Douai in 1609. Later English bishop Richard Challoner revised the translation between 1749 and 1752 to enhance its readability and comprehensibility. The Douay-Rheims Bible influenced the Authorized Version and was first published in America in 1790 by Mathew Carey of Philadelphia. Challoner's New Testament was, however, extensively revised by Bernard MacMahon in a series of Dublin editions from 1783 to 1810; and these various Dublin versions are the source of some Challoner bibles printed in the United States in the 19th Century. The Challoner revision of the Douay-Rheims is still often the Bible of choice of English-speaking Traditionalist Catholics. Several American editions followed, including the prominent Douay-Rheims 1899 American Edition (DRA).",
+        "History": "The Douay-Rheims 1899 American Edition (DRA) Bible is a revision of the Douay-Rheims Bible (DRB), which was translated from the Latin Vulgate into English, and was primarily the work of Gregory Martin, an Oxford-trained scholar. Martin collaborated with other members of the Catholic seminary English College in Douai, France. Under the sponsorship of Cardinal William Allen, they produced the New Testament, which appeared in Rheims in 1582, and the Old Testament, published in Douai in 1609. Later English bishop Richard Challoner revised the translation between 1749 and 1752 to enhance its readability and comprehensibility. The Douay-Rheims Bible influenced the Authorized Version and was first published in America in 1790 by Mathew Carey of Philadelphia. Challoner's New Testament was, however, extensively revised by Bernard MacMahon in a series of Dublin editions from 1783 to 1810; and these various Dublin versions are the source of some Challoner bibles printed in the United States in the 19th Century. The Challoner revision of the Douay-Rheims is still often the Bible of choice of English-speaking Traditionalist Catholics. Several American editions followed, including the prominent Douay-Rheims 1899 American Edition (DRA).",
         "Status": 3,
         "Title": "Douay-Rheims 1899 American Version",
         "VerseCount": 35811,
-        "VersionID": 8,
+        "VersionID": 9,
         "WikiLink": "https://hc.edu/publications/museums/Dunham_Bible_Museum/DBM_Bruno_MatthewCarey.pdf"
     },
     {
@@ -95,7 +106,7 @@ var versions = [
         "Status": 1,
         "Title": "Douay-Rheims Bible",
         "VerseCount": 31102,
-        "VersionID": 9,
+        "VersionID": 10,
         "WikiLink": "https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible"
     },
     {
@@ -106,7 +117,7 @@ var versions = [
         "Status": 2,
         "Title": "English Revised Version",
         "VerseCount": 31102,
-        "VersionID": 10,
+        "VersionID": 11,
         "WikiLink": "https://www.bible-researcher.com/erv.html"
     },
     {
@@ -117,7 +128,7 @@ var versions = [
         "Status": 1,
         "Title": "Free Bible Version",
         "VerseCount": 31087,
-        "VersionID": 11,
+        "VersionID": 12,
         "WikiLink": "https://www.freebibleversion.org/"
     },
     {
@@ -128,7 +139,7 @@ var versions = [
         "Status": 1,
         "Title": "Geneva Bible",
         "VerseCount": 31102,
-        "VersionID": 12,
+        "VersionID": 13,
         "WikiLink": "https://en.wikipedia.org/wiki/Geneva_Bible"
     },
     {
@@ -139,8 +150,19 @@ var versions = [
         "Status": 5,
         "Title": "JPS Tanakh-OT 1917",
         "VerseCount": 23145,
-        "VersionID": 13,
+        "VersionID": 14,
         "WikiLink": "https://jps.org/books/holy-scriptures-tanakh-1917-edition/"
+    },
+    {
+        "Abreviation": "KJV",
+        "Authors": "Richard Bancroft, the archbishop of Canterbury, and 47 other scholars and clergy 1604-1611. Oxford professor Dr. Paris and Benjamin Blayney in 1769.",
+        "Copyright": "Public Domain",
+        "History": "The King James Version (KJV) of the Bible emerged in early 17th century England. King James I wanted to settle religious disputes and unify the country under a single Bible translation, so he commissioned the project in 1604. Prior English translations existed, but some were considered inaccurate or politically motivated. The KJV sought to be a scholarly and authoritative version. Dozens of translators worked from existing Hebrew and Greek texts, and the resulting text aimed for both accuracy and elegance. First published in 1611, the Authorized King James Version (AKV) quickly gained popularity. The King James Version (KJV) that we know today commonly refers to the 1769 version which made minor revisions to the 1611 original.",
+        "Status": 1,
+        "Title": "King James Version",
+        "VerseCount": 31102,
+        "VersionID": 15,
+        "WikiLink": "https://en.wikipedia.org/wiki/King_James_Version"
     },
     {
         "Abreviation": "KJA",
@@ -148,21 +170,10 @@ var versions = [
         "Copyright": "Public Domain",
         "History": "The King James + Apocrypha (KJA) was the beginning of the King James Version (KJV), also known as the Authorized Version, which is an English translation of the Bible published in 1611 under the auspices of King James I of England. This translation had a significant influence on English literary style and was widely accepted as the standard English Bible from the mid-17th to the early 20th century1. It includes both the Old Testament and the New Testament. The Apocrypha are a selection of books that were originally published in the 1611 King James Bible. Positioned between the Old and New Testaments, the Apocrypha includes additional texts such as Tobit, Judith, Wisdom of Solomon, and others. The British and Foreign Bible Society, a major publisher of Bibles, stopped including the Apocrypha in many editions around 1820s due to cost concerns and theological disagreements. Over time, other publishers followed suit. The Apocrypha was part of the KJV for 274 years until it was finally removed from most modern editions of the KJV by 1885.",
         "Status": 5,
-        "Title": "King James + Apocrypha",
+        "Title": "King James+Apocrypha",
         "VerseCount": 36822,
-        "VersionID": 14,
+        "VersionID": 16,
         "WikiLink": "https://en.wikipedia.org/wiki/Biblical_apocrypha"
-    },
-    {
-        "Abreviation": "KJV",
-        "Authors": "Richard Bancroft, the archbishop of Canterbury, and 47 other scholars and clergy.",
-        "Copyright": "Public Domain",
-        "History": "The King James Version (KJV) of the Bible emerged in early 17th century England. King James I wanted to settle religious disputes and unify the country under a single Bible translation, so he commissioned the project in 1604. Prior English translations existed, but some were considered inaccurate or politically motivated. The KJV sought to be a scholarly and authoritative version. Dozens of translators worked from existing Hebrew and Greek texts, and the resulting text aimed for both accuracy and elegance. Published in 1611, the KJV quickly gained popularity.",
-        "Status": 1,
-        "Title": "King James Version",
-        "VerseCount": 31102,
-        "VersionID": 15,
-        "WikiLink": "https://en.wikipedia.org/wiki/King_James_Version"
     },
     {
         "Abreviation": "LSV",
@@ -172,7 +183,7 @@ var versions = [
         "Status": 2,
         "Title": "Literal Standard Version",
         "VerseCount": 31104,
-        "VersionID": 16,
+        "VersionID": 17,
         "WikiLink": "https://en.wikipedia.org/wiki/Literal_Standard_Version"
     },
     {
@@ -183,7 +194,7 @@ var versions = [
         "Status": 1,
         "Title": "Noah Webster's Bible",
         "VerseCount": 31106,
-        "VersionID": 17,
+        "VersionID": 18,
         "WikiLink": "https://en.wikipedia.org/wiki/Webster%27s_Revision"
     },
     {
@@ -194,7 +205,7 @@ var versions = [
         "Status": 1,
         "Title": "Smith's Literal Translation",
         "VerseCount": 31102,
-        "VersionID": 18,
+        "VersionID": 19,
         "WikiLink": "https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation"
     },
     {
@@ -205,7 +216,7 @@ var versions = [
         "Status": 1,
         "Title": "Translation for Translators",
         "VerseCount": 30640,
-        "VersionID": 19,
+        "VersionID": 20,
         "WikiLink": "http://bible.ink/version/info.html?T4T"
     },
     {
@@ -216,7 +227,7 @@ var versions = [
         "Status": 0,
         "Title": "Twenty-First Century Version",
         "VerseCount": 31102,
-        "VersionID": 20,
+        "VersionID": 21,
         "WikiLink": ""
     },
     {
@@ -227,7 +238,7 @@ var versions = [
         "Status": 5,
         "Title": "Tyndale's Bible",
         "VerseCount": 13928,
-        "VersionID": 21,
+        "VersionID": 22,
         "WikiLink": "https://en.wikipedia.org/wiki/Tyndale_Bible"
     },
     {
@@ -238,7 +249,7 @@ var versions = [
         "Status": 2,
         "Title": "Unlocked Literal Bible",
         "VerseCount": 31078,
-        "VersionID": 22,
+        "VersionID": 23,
         "WikiLink": "https://www.mnnonline.org/news/a-new-source-for-bible-translation/"
     },
     {
@@ -249,7 +260,7 @@ var versions = [
         "Status": 5,
         "Title": "Weymouth New Testament",
         "VerseCount": 7957,
-        "VersionID": 23,
+        "VersionID": 24,
         "WikiLink": "https://en.wikipedia.org/wiki/Weymouth_New_Testament"
     },
     {
@@ -260,7 +271,7 @@ var versions = [
         "Status": 1,
         "Title": "World English Bible",
         "VerseCount": 31102,
-        "VersionID": 24,
+        "VersionID": 25,
         "WikiLink": "https://en.wikipedia.org/wiki/World_English_Bible"
     },
     {
@@ -271,7 +282,7 @@ var versions = [
         "Status": 1,
         "Title": "Young's Literal Translation",
         "VerseCount": 31103,
-        "VersionID": 25,
+        "VersionID": 26,
         "WikiLink": "https://en.wikipedia.org/wiki/Young%27s_Literal_Translation"
     }
 ];
