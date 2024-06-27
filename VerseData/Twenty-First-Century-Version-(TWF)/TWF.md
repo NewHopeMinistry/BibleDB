@@ -19,7 +19,7 @@ The status field in the following tables indicates the editing status of each ch
 |1 |Genesis         |Rough Draft|1533|
 |2 |Exodus          |Rough Draft|1213|
 |3 |Leviticus       |Rough Draft|859 |
-|4 |Numbers         |4:28       |1288|
+|4 |Numbers         |6:11       |1288|
 |5 |Deuteronomy     ||
 |6 |Joshua          ||
 |7 |Judges          ||
