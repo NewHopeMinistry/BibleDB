@@ -1,2 +1,3 @@
-INSERT INTO AJsonVersions (ar, id, vn)
-SELECT Abreviation, VersionID, VersionName FROM AAVersions
+INSERT INTO AJsonVersions (id, ar, t)
+SELECT VersionID, Abreviation, Title FROM AAVersions
+WHERE Status = 1;
