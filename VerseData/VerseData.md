@@ -16,8 +16,8 @@ The VerseData folder contains the versions data files in various different file 
 
 
 ##### Description of Data Stored in Each Field:
-1.  Abreviation = The popularly used Abreviation for the the version.
-2.  Authors = The name or names of the authors that contributed to each version.
+1. Abreviation = The popularly used Abreviation for the the version.
+2. Authors = The name or names of the authors that contributed to each version.
 3. Copyright = The copyright status of each version, all of them in the BibleDB Project are in the public domain.
 4. History = The history of the particular version.
 5. Links = External links to websites with information about each version.
@@ -30,7 +30,7 @@ The VerseData folder contains the versions data files in various different file 
 <br>
 
 ##### Special Characters:
-There are special characters embedded within the VerseText fields of some versions of the Verses data files. These special characters can be used to format the verse when it is renderded. The Verse data files with 31,102 verses in them will have these special characters. Currently the only files with these special characters are the edited verses in the New American Bible (NAB) files. You can see which chapters and verses have been edited here: [New American Bible](/VerseData/New-American-Bible/NAB.md)
+There are special characters embedded within the VerseText fields of some versions of the Verses data files. These special characters can be used to format the verse when it is renderded. The Verse data files with 31,102 verses in them will have these special characters. Currently the only files with these special characters are the edited verses in the Twenty-First Century Version (TWF) files. You can see which chapters and verses have been edited here: [Twenty-First Century Version](/VerseData/Twenty-First-Century-Version-(TWF)/TWF.md)
 
 If the JesusQuote field holds a value of 1 instead of 0, the Grave Accent Character ``` ` ``` is used to indicate the beginning of a quotation by Jesus. The Acute Accent character ``` ´ ``` indicates the end of the Jesus quote.
 The following CSS styling and Javascript code is an example of how this is used. This snippet will color the VerseText red, wherever Jesus is directly quoted.

@@ -1,3 +1,3 @@
-INSERT INTO AJsonVerses (bid, cn, jq, pn, vid, vn, vt, vrsnid, volid)
-SELECT BookID, ChapterNumber, JesusQuote, ParagraphNumber, VerseID, VerseNumber,
-VerseText, VersionID, VolumeID FROM SLTVerses
+INSERT INTO AJsonVerses (vid, vn, bid, cn, vt, jq, pn, vrsnid, volid)
+SELECT VerseID, VerseNumber, BookID, ChapterNumber, VerseText, JesusQuote,
+ParagraphNumber, VersionID, VolumeID FROM YLTVerses
