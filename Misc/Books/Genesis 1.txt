@@ -1,0 +1,50 @@
+<h2>Genesis 1</h2>
+                <p>
+                    <span id="id-versNumber1">
+                        <span class="cs-verseNumber">1 </span>In the beginning, God created heaven and earth.
+                    </span>
+                    <span id="id-versNumber2"><span class="cs-verseNumber">2 </span>The earth was void and without form, darkness covered the face of the deep, and God's Spirit moved over the waters.</span>
+                    <span id="id-versNumber3"><span class="cs-verseNumber">3 </span>And God said, "Let there be light," and there was light.</span>
+                    <span id="id-versNumber4"><span class="cs-verseNumber">4 </span>God saw that the light was good, and He separated the light from the darkness.</span>
+                    <span id="id-versNumber5"><span class="cs-verseNumber">5 </span>God called the light day and He called the darkness night, and that morning and that evening were the first day.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber6"><span class="cs-verseNumber">6 </span>And God said, "Let there be a firmament in the middle of the waters, and it'll divide the waters from the waters."</span>
+                    <span id="id-versNumber7"><span class="cs-verseNumber">7 </span>Then God made the firmament and divided the waters under the firmament from the waters above the firmament, and it was so.</span>
+                    <span id="id-versNumber8"><span class="cs-verseNumber">8 </span>God called the firmament heaven, and that morning and that evening were the second day.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber9"><span class="cs-verseNumber">9 </span>And God said, "Let the waters under heaven be gathered together into one place and let the dry land appear," and it was so.</span>
+                    <span id="id-versNumber10"><span class="cs-verseNumber">10 </span>Then God named the dry land earth and he named the waters the seas, and God saw that it was good.</span>
+                    <span id="id-versNumber11"><span class="cs-verseNumber">11 </span>And God said, "Let the earth bring forth every kind of seed bearing plant including grass, herbs, and fruit trees, each with their own kind of seed," and it was so.</span>
+                    <span id="id-versNumber12"><span class="cs-verseNumber">12 </span>And the earth brought forth all the seed bearing plants, including every kind of grass, herb, and fruit tree that there was, and God saw that it was good.</span>
+                    <span id="id-versNumber13"><span class="cs-verseNumber">13 </span>And that morning and that evening were the third day.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber14"><span class="cs-verseNumber">14 </span>And God said, "Let there be lights in the heavens to divide the day from the night and let them be a sign for the seasons, to seperate the days, months, and years.</span>
+                    <span id="id-versNumber15"><span class="cs-verseNumber">15 </span>Let the lights in the heavens give light on the earth," and it was so.</span>
+                    <span id="id-versNumber16"><span class="cs-verseNumber">16 </span>Then God made two great lights, the sun to rule the day, and the moon and stars to rule the night.</span>
+                    <span id="id-versNumber17"><span class="cs-verseNumber">17 </span>God placed the lights in the heavens to give light to the earth.</span>
+                    <span id="id-versNumber18"><span class="cs-verseNumber">18 </span>And to divide the light from the darkness and rule over the days and nights, and God saw that it was good.</span>
+                    <span id="id-versNumber19"><span class="cs-verseNumber">19 </span>And that morning and that evening were the fourth day.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber20"><span class="cs-verseNumber">20 </span>And God said, "Let the waters bring forth abundant life with living creatures that move and birds that fly in the heavens above the earth."</span>
+                    <span id="id-versNumber21"><span class="cs-verseNumber">21 </span>Then God created an abundance of great whales and every kind of living moving creature that lived in the waters, plus every type of winged bird that flew above the earth, and God saw that it was good.</span>
+                    <span id="id-versNumber22"><span class="cs-verseNumber">22 </span>And God blessed them and said, "Be fruitful, multiply, and fill the waters of the seas with abundant life, and let the birds multiply abundantly upon the earth."</span>
+                    <span id="id-versNumber23"><span class="cs-verseNumber">23 </span>And that morning and that evening were the fifth day.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber24"><span class="cs-verseNumber">24 </span>And God said, "Let the earth bring forth every kind of living creature including cattle, animals, creeping things, and every other living thing on earth" and it was so.</span>
+                    <span id="id-versNumber25"><span class="cs-verseNumber">25 </span>God created animals of every kind, including cattle, creeping things, and every other living thing on the earth, and God saw that it was good.</span>
+                </p>
+                <p>
+                    <span id="id-versNumber26"><span class="cs-verseNumber">26 </span>And God said, "Let's make man in our image, a man who looks like us, and man will preserve and control all the fish, birds, cattle, creeping things, and every other living thing on earth."</span>
+                    <span id="id-versNumber27"><span class="cs-verseNumber">27 </span>So God created man in his image, both male and female.</span>
+                    <span id="id-versNumber28"><span class="cs-verseNumber">28 </span>Then God blessed them and said, "Be fruitful, multiply, and replenish the earth; Take control of the fish, birds, and every other living thing on earth."</span>
+                </p>
+                <p>
+                    <span id="id-versNumber29"><span class="cs-verseNumber">29 </span>And God said, "Behold, I've given you every green herb and every fruit tree on the earth that produces seed for you to eat.</span>
+                    <span id="id-versNumber30"><span class="cs-verseNumber">30 </span>I've given you every living thing on the earth, including every beast and bird, the creeping things, green herbs for food, and every other living thing on the earth," and it was so.</span>
+                    <span id="id-versNumber31"><span class="cs-verseNumber">31 </span>And God saw that everything He'd created was very good, and that morning and that evening were the sixth day.</span>
+                </p>
