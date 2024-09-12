@@ -20,7 +20,7 @@ The number of verses listed is for all versions with a total verse count of 31,1
 |1 |Genesis         |Rough Draft|1533|
 |2 |Exodus          |Rough Draft|1213|
 |3 |Leviticus       |Rough Draft| 859|
-|4 |Numbers         |28:2       |1288|
+|4 |Numbers         |28:2       |1288| > mount 138
 |5 |Deuteronomy     |1:1        | 959|
 |6 |Joshua          |1:1        | 658|
 |7 |Judges          |1:1        | 618|
