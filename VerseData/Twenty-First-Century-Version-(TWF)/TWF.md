@@ -20,74 +20,74 @@ The number of verses listed is for all versions with a total verse count of 31,1
 |1 |Genesis         |Rough Draft|1533|
 |2 |Exodus          |Rough Draft|1213|
 |3 |Leviticus       |Rough Draft| 859|
-|4 |Numbers         |35:5       |1288|
-|5 |Deuteronomy     |1:1        | 959|
+|4 |Numbers         |Rough Draft|1288|
+|5 |Deuteronomy     |2:4        | 959|*
 |6 |Joshua          |1:1        | 658|
 |7 |Judges          |1:1        | 618|
-|8 |Ruth            |1:1        ||
-|9 |1 Samuel        |1:1        ||
-|10|2 Samuel        |1:1        ||
-|11|1 Kings         |1:1        ||
-|12|2 Kings         |1:1        ||
-|13|1 Chronicles    |1:1        ||
-|14|2 Chronicles    |1:1        ||
-|15|Ezra            |1:1        ||
-|16|Nehemiah        |1:1        ||
-|17|Esther          |1:1        ||
-|18|Job             |1:1        ||
-|19|Psalms          |1:1        ||
-|20|Proverbs        |1:1        ||
-|21|Ecclesiastes    |1:1        ||
-|22|Song of Solomon |1:1        ||
-|23|Isaiah          |1:1        ||
-|24|Jeremiah        |1:1        ||
-|25|Lamentations    |1:1        ||
-|26|Ezekiel         |1:1        ||
-|27|Daniel          |1:1        ||
-|28|Hosea           |1:1        ||
-|29|Joel            |1:1        ||
-|30|Amos            |1:1        ||
-|31|Obadiah         |1:1        ||
-|32|Johnah          |1:1        ||
-|33|Micah           |1:1        ||
-|34|Nahum           |1:1        ||
-|35|Habakkuk        |1:1        ||
-|36|Zephaniah       |1:1        ||
-|37|Haggai          |1:1        ||
-|38|Zechariah       |1:1        ||
-|39|Malachi         |1:1        ||
+|8 |Ruth            |1:1        |  85|
+|9 |1 Samuel        |1:1        | 810|
+|10|2 Samuel        |1:1        | 695|
+|11|1 Kings         |1:1        | 816|
+|12|2 Kings         |1:1        | 719|
+|13|1 Chronicles    |1:1        | 942|
+|14|2 Chronicles    |1:1        | 822|
+|15|Ezra            |1:1        | 280|
+|16|Nehemiah        |1:1        | 406|
+|17|Esther          |1:1        | 167|
+|18|Job             |1:1        |1070|
+|19|Psalms          |1:1        |2461|
+|20|Proverbs        |1:1        | 915|
+|21|Ecclesiastes    |1:1        | 222|
+|22|Song of Solomon |1:1        | 117|
+|23|Isaiah          |1:1        |1292|
+|24|Jeremiah        |1:1        |1364|
+|25|Lamentations    |1:1        | 154|
+|26|Ezekiel         |1:1        |1273|
+|27|Daniel          |1:1        | 357|
+|28|Hosea           |1:1        | 197|
+|29|Joel            |1:1        |  73|
+|30|Amos            |1:1        | 146|
+|31|Obadiah         |1:1        |  21|
+|32|Johnah          |1:1        |  48|
+|33|Micah           |1:1        | 105|
+|34|Nahum           |1:1        |  47|
+|35|Habakkuk        |1:1        |  56|
+|36|Zephaniah       |1:1        |  53|
+|37|Haggai          |1:1        |  38|
+|38|Zechariah       |1:1        | 211|
+|39|Malachi         |1:1        |  55|
 
 <br>
 
 ###### New Testament:
 |BookID|Book|Status |Verses|
 |:---  |---:| ---:  |---:  |
-|40|Matthew         |13:13      | 1071||
-|41|Mark            |4:19       |  678||
-|42|Luke            |1:1        ||
-|43|John            |1:1        ||
-|44|Acts            |1:1        ||
-|45|Romans          |1:1        ||
-|46|1 Corinthians   |1:1        ||
-|47|2 Corinthians   |1:1        ||
-|48|Galatians       |1:1        ||
-|49|Ephesians       |1:1        ||
-|50|Philippians     |1:1        ||
-|51|Colossians      |1:1        ||
-|52|1 Thessalonians |1:1        ||
-|53|2 Thessalonians |1:1        ||
-|54|1 Timothy       |1:1        ||
-|55|2 Timothy       |1:1        ||
-|56|Titus           |1:1        ||
-|57|Philemon        |1:1        ||
-|58|Hebrews         |1:1        ||
-|59|James           |1:1        ||
-|60|1 Peter         |1:1        ||
-|61|2 Peter         |1:1        ||
-|62|1 John          |1:1        ||
-|63|2 John          |1:1        ||
-|64|3 John          |1:1        ||
-|65|Jude            |1:1        ||
+|40|Matthew         |13:13      |1071|
+|41|Mark            |4:19       | 678|
+|42|Luke            |1:1        |1151|
+|43|John            |1:1        | 879|
+|44|Acts            |1:1        |1007|
+|45|Romans          |1:1        | 433|
+|46|1 Corinthians   |1:1        | 437|
+|47|2 Corinthians   |1:1        | 257|
+|48|Galatians       |1:1        | 149|
+|49|Ephesians       |1:1        | 155|
+|50|Philippians     |1:1        | 104|
+|51|Colossians      |1:1        |  95|
+|52|1 Thessalonians |1:1        |  89|
+|53|2 Thessalonians |1:1        |  47|
+|54|1 Timothy       |1:1        | 113|
+|55|2 Timothy       |1:1        |  83|
+|56|Titus           |1:1        |  46|
+|57|Philemon        |1:1        |  25|
+|58|Hebrews         |1:1        | 303|
+|59|James           |1:1        | 108|
+|60|1 Peter         |1:1        | 105|
+|61|2 Peter         |1:1        |  61|
+|62|1 John          |1:1        | 105|
+|63|2 John          |1:1        |  13|
+|64|3 John          |1:1        |  14|
+|65|Jude            |1:1        |  25|
 |66|Revelation      |3:1        | 404|
 
 ---
