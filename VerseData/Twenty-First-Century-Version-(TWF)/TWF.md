@@ -21,7 +21,7 @@ The number of verses listed is for all versions with a total verse count of 31,1
 |2 |Exodus          |Rough Draft|1213|
 |3 |Leviticus       |Rough Draft| 859|
 |4 |Numbers         |Rough Draft|1288|
-|5 |Deuteronomy     |6:2        | 959|*
+|5 |Deuteronomy     |11:9       | 959|*
 |6 |Joshua          |1:1        | 658|
 |7 |Judges          |1:1        | 618|
 |8 |Ruth            |1:1        |  85|
