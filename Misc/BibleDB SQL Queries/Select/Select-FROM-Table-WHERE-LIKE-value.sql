@@ -1,1 +1,1 @@
-SELECT * FROM TWFVerses WHERE VerseText LIKE "%woollen%"; 
+SELECT * FROM TWFVerses WHERE VerseText LIKE "%avouched%"; 
