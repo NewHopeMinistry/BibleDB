@@ -25,7 +25,7 @@ The number of verses listed is for all versions with a total verse count of 31,1
 |4 |Numbers         |Rough Draft|1288|
 |5 |Deuteronomy     |Rough Draft| 959|
 |6 |Joshua          |Rough Draft| 658|
-|7 |Judges          |19:2       | 618|*
+|7 |Judges          |19:8       | 618|*
 |8 |Ruth            |1:1        |  85|
 |9 |1 Samuel        |1:1        | 810|
 |10|2 Samuel        |1:1        | 695|
