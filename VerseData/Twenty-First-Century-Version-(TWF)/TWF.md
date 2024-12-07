@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 12-3-2024
+Last Edited: 12-5-2024
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -25,9 +25,9 @@ The number of verses listed is for all versions with a total verse count of 31,1
 |4 |Numbers         |Rough Draft|1288|
 |5 |Deuteronomy     |Rough Draft| 959|
 |6 |Joshua          |Rough Draft| 658|
-|7 |Judges          |21:4       | 618|*
-|8 |Ruth            |1:1        |  85|
-|9 |1 Samuel        |1:1        | 810|
+|7 |Judges          |Rough Draft| 618|
+|8 |Ruth            |Rough Draft|  85|
+|9 |1 Samuel        |1:6        | 810|*
 |10|2 Samuel        |1:1        | 695|
 |11|1 Kings         |1:1        | 816|
 |12|2 Kings         |1:1        | 719|
