@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 12-15-2024
+Last Edited: 12-18-2024
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -27,7 +27,7 @@ The number of chapters and verses listed is for all versions with a total verse 
 |6 |Joshua          |Rough Draft| 24| 658|
 |7 |Judges          |Rough Draft| 21| 618|
 |8 |Ruth            |Rough Draft|  4|  85|
-|9 |*1 Samuel       |8:4        | 31| 810|
+|9 |*1 Samuel       |9:2        | 31| 810|
 |10|2 Samuel        |1:1        | 24| 695|
 |11|1 Kings         |1:1        | 22| 816|
 |12|2 Kings         |1:1        | 25| 719|
