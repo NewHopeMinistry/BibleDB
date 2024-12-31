@@ -27,7 +27,7 @@ The number of chapters and verses listed is for all versions with a total verse 
 |6 |Joshua          |Rough Draft| 24| 658|
 |7 |Judges          |Rough Draft| 21| 618|
 |8 |Ruth            |Rough Draft|  4|  85|
-|9 |*1 Samuel       |22:2       | 31| 810|
+|9 |*1 Samuel       |25:1       | 31| 810|
 |10|2 Samuel        |1:1        | 24| 695|
 |11|1 Kings         |1:1        | 22| 816|
 |12|2 Kings         |1:1        | 25| 719|
