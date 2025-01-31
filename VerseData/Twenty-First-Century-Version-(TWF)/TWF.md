@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 1-26-2025
+Last Edited: 1-31-2025
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -29,8 +29,8 @@ The number of chapters and verses listed is for all versions with a total verse 
 |8 |Ruth            |Rough Draft|  4|  85|
 |9 |1 Samuel        |Rough Draft| 31| 810|
 |10|2 Samuel        |Rough Draft| 24| 695|
-|11|*1 Kings        |15:5       | 22| 816|
-|12|2 Kings         |1:1        | 25| 719|
+|11|*1 Kings        |Rough Draft| 22| 816|
+|12|2 Kings         |1:2        | 25| 719|
 |13|1 Chronicles    |1:1        | 29| 942|
 |14|2 Chronicles    |1:1        | 36| 822|
 |15|Ezra            |1:1        | 10| 280|
