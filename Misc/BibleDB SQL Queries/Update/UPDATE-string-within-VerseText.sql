@@ -1,3 +1,3 @@
 UPDATE TWFVerses
 SET VerseText = REPLACE(VerseText,
-" jehoash", " Joash");
+"rabmag", "Rab-Mag");
