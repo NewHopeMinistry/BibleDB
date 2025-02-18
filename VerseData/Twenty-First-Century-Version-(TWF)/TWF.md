@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 2-16-2025
+Last Edited: 2-18-2025
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -31,7 +31,7 @@ The number of chapters and verses listed is for all versions with a total verse 
 |10|2 Samuel        |Rough Draft| 24| 695|
 |11|1 Kings         |Rough Draft| 22| 816|
 |12|2 Kings         |Rough Draft| 25| 719|
-|13|*1 Chronicles   |1:20       | 29| 942|
+|13|*1 Chronicles   |5:2        | 29| 942|
 |14|2 Chronicles    |1:1        | 36| 822|
 |15|Ezra            |1:1        | 10| 280|
 |16|Nehemiah        |1:1        | 13| 406|
