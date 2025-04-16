@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 4-12-2025
+Last Edited: 4-16-2025
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -34,7 +34,7 @@ The number of chapters and verses listed is for all versions with a total verse 
 |13|1 Chronicles    |Rough Draft| 29| 942|
 |14|2 Chronicles    |Rough Draft| 36| 822|
 |15|Ezra            |Rough Draft| 10| 280|
-|16|*Nehemiah       |7:2        | 13| 406|
+|16|*Nehemiah       |13:2        | 13| 406|
 |17|Esther          |1:1        | 13| 167|
 |18|Job             |1:1        | 42|1070|
 |19|Psalms          |1:1        |150|2461|
