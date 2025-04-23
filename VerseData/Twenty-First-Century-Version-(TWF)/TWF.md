@@ -4,7 +4,7 @@ Work on the Twenty-First Century Version (TWF) was begun in 2018, shortly after 
 
 The TWF version is being actively rewritten and is subject to change daily.
 <br>
-Last Edited: 4-22-2025
+Last Edited: 4-23-2025
 <br><br>
 <p style="font-size: .8rem; text-align: center;">If you prefer to read the older versions, please feel free to do so.</>
 
@@ -36,7 +36,7 @@ The number of chapters and verses listed is for all versions with a total verse 
 |15|Ezra            |Rough Draft| 10| 280|
 |16|Nehemiah        |Rough Draft| 13| 406|
 |17|Esther          |Rough Draft| 13| 167|
-|18|*Job            |1:5        | 42|1070|
+|18|*Job            |3:8        | 42|1070|
 |19|Psalms          |1:1        |150|2461|
 |20|Proverbs        |1:1        | 31| 915|
 |21|Ecclesiastes    |1:1        | 12| 222|
