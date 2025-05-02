@@ -1,2 +1,2 @@
 UPDATE TWFVerses
-SET VerseText = REPLACE(VerseText, ' orion', ' Orion');
+SET VerseText = REPLACE(VerseText, ' devided', ' divided');
