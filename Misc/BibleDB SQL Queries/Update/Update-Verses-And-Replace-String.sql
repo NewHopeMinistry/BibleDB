@@ -1,2 +1,2 @@
 UPDATE TWFVerses
-SET VerseText = REPLACE(VerseText, ' devided', ' divided');
+SET VerseText = REPLACE(VerseText, ' unGodly', ' ungodly');
