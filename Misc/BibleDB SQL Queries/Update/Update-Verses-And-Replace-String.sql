@@ -1,2 +1,2 @@
 UPDATE TWFVerses
-SET VerseText = REPLACE(VerseText, ' kerenhappuch', ' Keren-Happuch');
+SET VerseText = REPLACE(VerseText, ' lebanon', ' Lebanon');
