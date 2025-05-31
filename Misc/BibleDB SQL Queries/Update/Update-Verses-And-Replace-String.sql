@@ -1,2 +1,2 @@
 UPDATE TWFVerses
-SET VerseText = REPLACE(VerseText, ' timbrels', ' tambourines');
+SET VerseText = REPLACE(VerseText, ' contract', ' covenant');
