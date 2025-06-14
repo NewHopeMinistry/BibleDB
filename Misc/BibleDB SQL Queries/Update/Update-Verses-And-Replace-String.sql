@@ -1,2 +1,2 @@
 UPDATE TWFVerses
-SET VerseText = REPLACE(VerseText, ' rattle', ' maraca');
+SET VerseText = REPLACE(VerseText, " most High", ' Most High');
