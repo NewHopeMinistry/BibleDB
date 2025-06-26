@@ -1,1 +1,0 @@
-UPDATE AJsonVerses SET pn = 0;
